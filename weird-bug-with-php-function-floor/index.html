@@ -1,0 +1,213 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Weird bug with PHP function floor()</title>
+    <meta name="description" content="">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=dcd1008365">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
+    
+    <meta property="og:site_name" content="KozyIce">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Weird bug with PHP function floor()">
+    <meta property="og:description" content='In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_mfVOTXQM__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from'>
+    <meta property="og:url" content="http://localhost:2368/weird-bug-with-php-function-floor/">
+    <meta property="article:published_time" content="2015-04-24T08:07:36.362Z">
+    <meta property="article:modified_time" content="2016-02-16T04:46:52.583Z">
+    <meta property="article:tag" content="Tips and Tricks">
+    <meta property="article:tag" content="php">
+    <meta property="article:tag" content="bug">
+    <meta property="article:tag" content="code">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Weird bug with PHP function floor()">
+    <meta name="twitter:description" content='In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_mfVOTXQM__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from'>
+    <meta name="twitter:url" content="http://localhost:2368/weird-bug-with-php-function-floor/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Hardy Pham">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Tips and Tricks, php, bug, code">
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "KozyIce",
+    "author": {
+        "@type": "Person",
+        "name": "Hardy Pham",
+        "image": "//www.gravatar.com/avatar/e408edb788c76b276ecbb08d79f9bfad?s=250&d=mm&r=x",
+        "url": "http://localhost:2368/author/hardy/"
+    },
+    "headline": "Weird bug with PHP function floor()",
+    "url": "http://localhost:2368/weird-bug-with-php-function-floor/",
+    "datePublished": "2015-04-24T08:07:36.362Z",
+    "dateModified": "2016-02-16T04:46:52.583Z",
+    "keywords": "Tips and Tricks, php, bug, code",
+    "description": "In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_mfVOTXQM__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.7">
+    <link rel="alternate" type="application/rss+xml" title="KozyIce" href="../rss/index.html">
+</head>
+<body class="post-template tag-tips-and-tricks tag-php tag-bug tag-code nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="index.html#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-home" role="presentation"><a href="../">Home</a></li>
+    </ul>
+    <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        
+            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post tag-tips-and-tricks tag-php tag-bug tag-code">
+
+        <header class="post-header">
+            <h1 class="post-title">Weird bug with PHP function floor()</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2015-04-24">24 April 2015</time>  on <a href="../tag/tips-and-tricks/">Tips and Tricks</a>, <a href="../tag/php/">php</a>, <a href="../tag/bug/">bug</a>, <a href="../tag/code/">code</a>
+            </section>
+        </header>
+
+        <section class="post-content">
+            <p>In my project, I have to deal with a small problem: <br>
+<strong>Input</strong>: Some strings/numbers with value $"a_1a_2..a_n.xy"$
+($a_1, a_2, a_n, x, y$ are numbers in [0..9])</p>
+
+<p>For examples, "12345.04", "384.13", etc. <br>
+<strong>Output</strong>: Two numbers that were substrings from input splited by "."
+(12345 and 04, 384 and 13, etc.)</p>
+
+<p>OK, that's quite easy. At the beginning, I came up with this solution:</p>
+
+<pre><code class="language-php">$a = '1704.09';
+$b = floor($a);    // first number
+$c = (int)($a * 100) - $b * 100;    // second number
+echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;  
+</code></pre>
+
+<p>Everything seems to be fine, <a href="http://php.net/manual/en/function.floor.php">function floor()</a> giving you the lowest bounding integer of a float. Lately, I realized that my code provides wrong results with some inputs ended by ".01": "77655.01", "17064.01", etc. Of course, my code has to be changed:</p>
+
+<pre><code class="language-php">$a = '1704.01';
+$array_a = explode(".", $a);
+$b = (int) $array_a[0];    // first number
+$c = (int) $array_a[1];    // second number
+echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;  
+</code></pre>
+
+<p>The following code shows that from $0$ to $10^7$, there are exactly 610143 numbers $x$ have property: $100 * (x + 0.01) \neq \ "x01"$</p>
+
+<pre><code class="language-php">$counter = 0;
+for($i = 0; $i &lt; 10000000; $i++) {  
+    $a = $i.'.'.'01';
+    $f = floor($a);
+    $b = (int)($a * 100) - $f * 100;
+    if($b == 0) {
+        echo $i;
+        echo "&lt;br /&gt;";
+        $counter++;
+    }
+}
+echo "=== DONE ===&lt;br /&gt;";  
+echo $counter;  
+</code></pre>
+
+<p>Interesting, so be careful with PHP floor() function if you use it :)</p>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="../author/hardy/" style="background-image: url(http://www.gravatar.com/avatar/e408edb788c76b276ecbb08d79f9bfad?s=250&amp;d=mm&amp;r=x)"><span class="hidden">Hardy Pham's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="../author/hardy/">Hardy Pham</a></h4>
+
+                    <p>Read <a href="../author/hardy/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Weird%20bug%20with%20PHP%20function%20floor()&amp;url=http://localhost:2368/weird-bug-with-php-function-floor/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/weird-bug-with-php-function-floor/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/weird-bug-with-php-function-floor/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+    </article>
+</main>
+
+<aside class="read-next">
+    <a class="read-next-story no-cover" href="../audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04-2/">
+        <section class="post">
+            <h2>[Audio Book] Vũ trụ trong vỏ hạt dẻ #05 - The Universe in a nutshell #05</h2>
+            <p>CHƯƠNG 5 BẢO VỆ QUÁ KHỨ   Liệu có thể du hành thời gian được không?   Một nền văn minh…</p>
+        </section>
+    </a>
+    <a class="read-next-story prev no-cover" href="../audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04/">
+        <section class="post">
+            <h2>[Audio Book] Vũ trụ trong vỏ hạt dẻ #04 - The Universe in a nutshell #04</h2>
+            <p>CHƯƠNG 4 TIÊN ĐOÁN TƯƠNG LAI   Sự biến mất của thông tin trong các hố đen có thể làm…</p>
+        </section>
+    </a>
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="../">KozyIce</a> © 2016</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    
+
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=dcd1008365"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=dcd1008365"></script>
+
+</body>
