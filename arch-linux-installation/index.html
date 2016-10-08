@@ -31,7 +31,7 @@
 <meta name="msapplication-TileImage" content="/assets/img/mstile-144x144.png?v=wAAv6Wqe6l">
 <meta name="msapplication-config" content="/assets/img/browserconfig.xml?v=wAAv6Wqe6l">
 <meta name="theme-color" content="#e74c3c">
-    <link href="https://fonts.googleapis.com/css?family=Raleway:400,600|Roboto+Slab:300,400" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,600%7CRoboto+Slab:300,400" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="../assets/css/uno-zen.css?v=d9146edb91">
     <link rel="canonical" href="index.html">
     <meta name="referrer" content="no-referrer-when-downgrade">
@@ -185,7 +185,7 @@
 </section>
 
 <script>
-  function sdispatch() { var q = document.getElementById("search-field"); if (q.value != "") { var url = 'http://www.google.com/search?q=site:hieppham.net ' + q.value; if (navigator.userAgent.indexOf('iPad') > -1 || navigator.userAgent.indexOf('iPhone') > -1 || navigator.userAgent.indexOf('iPhone') > -1) { location.href = url; } else { window.open(url, "_blank"); } return false; } else { return false; } }
+  function sdispatch() { var q = document.getElementById("search-field"); if (q.value != "") { var url = 'http://www.google.com/search?q=site:hieppham.net%20' + q.value; if (navigator.userAgent.indexOf('iPad') > -1 || navigator.userAgent.indexOf('iPhone') > -1 || navigator.userAgent.indexOf('iPhone') > -1) { location.href = url; } else { window.open(url, "_blank"); } return false; } else { return false; } }
 </script>        </div>
       </div>
     </div>
@@ -205,7 +205,7 @@
 
         <span class="post reading-time"> ~ <span></span> read.</span>
       </div>
-      <a title="Tweet 'Arch Linux Installation'" href="https://twitter.com/intent/tweet?text=Arch Linux Installation »&hashtags=arch,linux,installation&url=http://localhost:2368/arch-linux-installation/">
+      <a title="Tweet 'Arch Linux Installation'" href="https://twitter.com/intent/tweet?text=Arch%20Linux%20Installation%20%C2%BB&amp;hashtags=arch,linux,installation&amp;url=http://localhost:2368/arch-linux-installation/">
         
         <h1 class="icon-reverse icon-social-twitter-post" id="post-title">Arch Linux Installation</h1>
       </a>
@@ -252,7 +252,7 @@ mount -o noatime /dev/sda1 /mnt/boot
 <pre><code class="language-bash">pacstrap -i /mnt base base-devel grub-efi-x86_64  
 </code></pre>
 
-<pre><code class="language-bash">genfstab -U -p /mnt >> /mnt/etc/fstab  
+<pre><code class="language-bash">genfstab -U -p /mnt &gt;&gt; /mnt/etc/fstab  
 nano /mnt/etc/fstab  
 </code></pre>
 
@@ -261,7 +261,7 @@ nano /mnt/etc/fstab
 
 <pre><code class="language-bash">nano /etc/locale.gen  
 locale-gen  
-echo LANG=en_US.UTF-8 > /etc/locale.conf  
+echo LANG=en_US.UTF-8 &gt; /etc/locale.conf  
 export LANG=en_US.UTF-8  
 </code></pre>
 
@@ -272,7 +272,7 @@ ntpd -qg
 hwclock --systohc  
 </code></pre>
 
-<pre><code class="language-bash">echo kozyice > /etc/hostname  
+<pre><code class="language-bash">echo kozyice &gt; /etc/hostname  
 </code></pre>
 
 <p>(Exchange 'kozyice' with the desired name for the system.)</p>

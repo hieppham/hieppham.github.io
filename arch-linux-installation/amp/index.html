@@ -72,7 +72,7 @@
     <meta name="generator" content="Ghost 0.11">
     <link rel="alternate" type="application/rss+xml" title="KozyIce" href="../../rss/index.html">
 
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,600,400">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,600,400">
     <style amp-custom>
         /* ==========================================================================
            Table of Contents
@@ -902,7 +902,7 @@ mount -o noatime /dev/sda1 /mnt/boot
 <pre><code class="language-bash">pacstrap -i /mnt base base-devel grub-efi-x86_64  
 </code></pre>
 
-<pre><code class="language-bash">genfstab -U -p /mnt >> /mnt/etc/fstab  
+<pre><code class="language-bash">genfstab -U -p /mnt &gt;&gt; /mnt/etc/fstab  
 nano /mnt/etc/fstab  
 </code></pre>
 
@@ -911,7 +911,7 @@ nano /mnt/etc/fstab
 
 <pre><code class="language-bash">nano /etc/locale.gen  
 locale-gen  
-echo LANG=en_US.UTF-8 > /etc/locale.conf  
+echo LANG=en_US.UTF-8 &gt; /etc/locale.conf  
 export LANG=en_US.UTF-8  
 </code></pre>
 
@@ -922,7 +922,7 @@ ntpd -qg
 hwclock --systohc  
 </code></pre>
 
-<pre><code class="language-bash">echo kozyice > /etc/hostname  
+<pre><code class="language-bash">echo kozyice &gt; /etc/hostname  
 </code></pre>
 
 <p>(Exchange 'kozyice' with the desired name for the system.)</p>

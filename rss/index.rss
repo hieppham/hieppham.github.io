@@ -1,549 +1,549 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>KozyIce</title><description>No price is too high to pay for the privilege of owning yourself.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Sat, 08 Oct 2016 04:38:47 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>I'm back</title><description><p>Cập nhật lại giao diện cho blog :)</p></description><link>http://localhost:2368/im-back/</link><guid isPermaLink="false">5cb138e6-9b39-4cb0-ac97-0ba5b20d8bc5</guid><category>random</category><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 08 Oct 2016 03:53:48 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/10/imback.jpg" medium="image"/><content:encoded><img src="http://localhost:2368/content/images/2016/10/imback.jpg" alt="I'm back"><p>Cập nhật lại giao diện cho blog :)</p></content:encoded></item><item><title>[Audio] Về các ngày Tết ở VN</title><description><p>Hôm nay là 5 tháng 5 Âm lịch - Tết Đoan Ngọ, đi đâu cũng nghe mọi người nói về chuyện "giết sâu bọ". Vậy ông bà ta giết sâu bọ như thế nào? <br>
-Mời mọi người nghe một trích đoạn từ tạp văn "Chuyện cũ Hà Nội" của cố</p></description><link>http://localhost:2368/audio-ve-cac-ngay-tet-o-vn/</link><guid isPermaLink="false">403c4407-8cdc-4292-83fb-50aed5687644</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 20 Jun 2015 04:10:17 GMT</pubDate><content:encoded><p>Hôm nay là 5 tháng 5 Âm lịch - Tết Đoan Ngọ, đi đâu cũng nghe mọi người nói về chuyện "giết sâu bọ". Vậy ông bà ta giết sâu bọ như thế nào? <br>
-Mời mọi người nghe một trích đoạn từ tạp văn "Chuyện cũ Hà Nội" của cố nhà văn Tô Hoài, phần nói về các ngày Tết trong một năm của người Việt.</p>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>KozyIce</title><description>No price is too high to pay for the privilege of owning yourself.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Sat, 08 Oct 2016 04:38:47 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>I'm back</title><description>&lt;p&gt;Cập nhật lại giao diện cho blog :)&lt;/p&gt;</description><link>http://localhost:2368/im-back/</link><guid isPermaLink="false">5cb138e6-9b39-4cb0-ac97-0ba5b20d8bc5</guid><category>random</category><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 08 Oct 2016 03:53:48 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/10/imback.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/10/imback.jpg" alt="I'm back"&gt;&lt;p&gt;Cập nhật lại giao diện cho blog :)&lt;/p&gt;</content:encoded></item><item><title>[Audio] Về các ngày Tết ở VN</title><description>&lt;p&gt;Hôm nay là 5 tháng 5 Âm lịch - Tết Đoan Ngọ, đi đâu cũng nghe mọi người nói về chuyện "giết sâu bọ". Vậy ông bà ta giết sâu bọ như thế nào? &lt;br&gt;
+Mời mọi người nghe một trích đoạn từ tạp văn "Chuyện cũ Hà Nội" của cố&lt;/p&gt;</description><link>http://localhost:2368/audio-ve-cac-ngay-tet-o-vn/</link><guid isPermaLink="false">403c4407-8cdc-4292-83fb-50aed5687644</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 20 Jun 2015 04:10:17 GMT</pubDate><content:encoded>&lt;p&gt;Hôm nay là 5 tháng 5 Âm lịch - Tết Đoan Ngọ, đi đâu cũng nghe mọi người nói về chuyện "giết sâu bọ". Vậy ông bà ta giết sâu bọ như thế nào? &lt;br&gt;
+Mời mọi người nghe một trích đoạn từ tạp văn "Chuyện cũ Hà Nội" của cố nhà văn Tô Hoài, phần nói về các ngày Tết trong một năm của người Việt.&lt;/p&gt;
 
-<p><iframe src="https://player.vimeo.com/video/131270567" width="400" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe> </p><p><a href="https://vimeo.com/131270567">Cac ngay Tet (trich Chuyen cu HN - To Hoai)</a> from <a href="https://vimeo.com/user28612771">Hiep Pham</a> on <a href="https://vimeo.com">Vimeo</a>.</p><p></p></content:encoded></item><item><title>Thư al3x gửi các bạn Lập trình viên trẻ muốn khởi nghiệp</title><description><p><a href="https://al3x.net/about.html">Alex Payne</a> hay nickname thường dùng <strong>al3x</strong>, là co-founder &amp; CTO của <a href="https://www.simple.com/">Simple</a>, từng làm việc cho Twitter và viết <a href="http://www.amazon.com/Programming-Scala-Scalability-Functional-Objects-ebook/dp/B00QJDYKH6/ref=sr_1_1?ie=UTF8&amp;qid=1431502076&amp;sr=8-1&amp;keywords=programming+scala+oreilly">sách về Scala</a>. Hiện nay Alex là một angel investor tại Portland, Oregon.</p>
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/131270567" width="400" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/131270567"&gt;Cac ngay Tet (trich Chuyen cu HN - To Hoai)&lt;/a&gt; from &lt;a href="https://vimeo.com/user28612771"&gt;Hiep Pham&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content:encoded></item><item><title>Thư al3x gửi các bạn Lập trình viên trẻ muốn khởi nghiệp</title><description>&lt;p&gt;&lt;a href="https://al3x.net/about.html"&gt;Alex Payne&lt;/a&gt; hay nickname thường dùng &lt;strong&gt;al3x&lt;/strong&gt;, là co-founder &amp;amp; CTO của &lt;a href="https://www.simple.com/"&gt;Simple&lt;/a&gt;, từng làm việc cho Twitter và viết &lt;a href="http://www.amazon.com/Programming-Scala-Scalability-Functional-Objects-ebook/dp/B00QJDYKH6/ref=sr_1_1?ie=UTF8&amp;amp;qid=1431502076&amp;amp;sr=8-1&amp;amp;keywords=programming+scala+oreilly"&gt;sách về Scala&lt;/a&gt;. Hiện nay Alex là một angel investor tại Portland, Oregon.&lt;/p&gt;
 
-<p>Tháng 05/2013, anh có viết một bài chia sẻ về các khía cạnh của startup từ</p></description><link>http://localhost:2368/al3x-s-letter-to-a-young-programmer-considering-a-startup/</link><guid isPermaLink="false">7828520b-bb9b-4c0c-9692-6b2385cd9d57</guid><dc:creator>Hardy Pham</dc:creator><pubDate>Wed, 13 May 2015 07:30:28 GMT</pubDate><content:encoded><p><a href="https://al3x.net/about.html">Alex Payne</a> hay nickname thường dùng <strong>al3x</strong>, là co-founder &amp; CTO của <a href="https://www.simple.com/">Simple</a>, từng làm việc cho Twitter và viết <a href="http://www.amazon.com/Programming-Scala-Scalability-Functional-Objects-ebook/dp/B00QJDYKH6/ref=sr_1_1?ie=UTF8&amp;qid=1431502076&amp;sr=8-1&amp;keywords=programming+scala+oreilly">sách về Scala</a>. Hiện nay Alex là một angel investor tại Portland, Oregon.</p>
+&lt;p&gt;Tháng 05/2013, anh có viết một bài chia sẻ về các khía cạnh của startup từ&lt;/p&gt;</description><link>http://localhost:2368/al3x-s-letter-to-a-young-programmer-considering-a-startup/</link><guid isPermaLink="false">7828520b-bb9b-4c0c-9692-6b2385cd9d57</guid><dc:creator>Hardy Pham</dc:creator><pubDate>Wed, 13 May 2015 07:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href="https://al3x.net/about.html"&gt;Alex Payne&lt;/a&gt; hay nickname thường dùng &lt;strong&gt;al3x&lt;/strong&gt;, là co-founder &amp;amp; CTO của &lt;a href="https://www.simple.com/"&gt;Simple&lt;/a&gt;, từng làm việc cho Twitter và viết &lt;a href="http://www.amazon.com/Programming-Scala-Scalability-Functional-Objects-ebook/dp/B00QJDYKH6/ref=sr_1_1?ie=UTF8&amp;amp;qid=1431502076&amp;amp;sr=8-1&amp;amp;keywords=programming+scala+oreilly"&gt;sách về Scala&lt;/a&gt;. Hiện nay Alex là một angel investor tại Portland, Oregon.&lt;/p&gt;
 
-<p>Tháng 05/2013, anh có viết một bài chia sẻ về các khía cạnh của startup từ trải nghiệm bản thân. Mời mọi người đọc bài viết đầy đủ tại link sau (khá dài nhưng rất thú vị):</p>
+&lt;p&gt;Tháng 05/2013, anh có viết một bài chia sẻ về các khía cạnh của startup từ trải nghiệm bản thân. Mời mọi người đọc bài viết đầy đủ tại link sau (khá dài nhưng rất thú vị):&lt;/p&gt;
 
-<p><a href="https://al3x.net/2013/05/23/letter-to-a-young-programmer.html">https://al3x.net/2013/05/23/letter-to-a-young-programmer.html</a></p>
+&lt;p&gt;&lt;a href="https://al3x.net/2013/05/23/letter-to-a-young-programmer.html"&gt;https://al3x.net/2013/05/23/letter-to-a-young-programmer.html&lt;/a&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Maybe a startup is the best way to meet a goal, and maybe it isn’t. If the goal of the young man described above is to run a business – any business! – then perhaps a startup is indeed his best path forward. For others, though, I often wonder if they’re fitting their goals into the format of a startup because it’s an approach that’s lauded, admired, and easily understood (if not easily accomplished).</p>
+&lt;blockquote&gt;
+  &lt;p&gt;Maybe a startup is the best way to meet a goal, and maybe it isn’t. If the goal of the young man described above is to run a business – any business! – then perhaps a startup is indeed his best path forward. For others, though, I often wonder if they’re fitting their goals into the format of a startup because it’s an approach that’s lauded, admired, and easily understood (if not easily accomplished).&lt;/p&gt;
   
-  <p>Maybe the best way to meet your goal is starting a non-profit or going into politics. Maybe it’s doing research at a university or making art in a squat. Maybe the answer is joining a large, stable company with formidable resources that you can leverage to meet your goal. Maybe your goal is best met by building a stable yet undemanding career that leaves plenty of time for family, friends, community, and self improvement.</p>
-</blockquote></content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #06-07 (hết) - The Universe in a nutshell #06-07 (end)</title><description><p><em>CHƯƠNG 6</em>
-<strong>ĐÂU LÀ TƯƠNG LAI CỦA CHÚNG TA?
-CÓ THỂ LÀ STAR TREK HAY KHÔNG?</strong></p>
+  &lt;p&gt;Maybe the best way to meet your goal is starting a non-profit or going into politics. Maybe it’s doing research at a university or making art in a squat. Maybe the answer is joining a large, stable company with formidable resources that you can leverage to meet your goal. Maybe your goal is best met by building a stable yet undemanding career that leaves plenty of time for family, friends, community, and self improvement.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #06-07 (hết) - The Universe in a nutshell #06-07 (end)</title><description>&lt;p&gt;&lt;em&gt;CHƯƠNG 6&lt;/em&gt;
+&lt;strong&gt;ĐÂU LÀ TƯƠNG LAI CỦA CHÚNG TA?
+CÓ THỂ LÀ STAR TREK HAY KHÔNG?&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Làm thế nào mà cuộc sống sinh học và điện tử
-  sẽ tiếp tục phát triển độ phức tạp với một tốc độ chưa từng thấy?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Làm thế nào mà cuộc sống sinh học và điện tử
+  sẽ tiếp tục phát triển độ phức tạp với một tốc độ chưa từng thấy?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/05/ThaiNhiNgoaiCoThe.png" alt=""></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/05/ThaiNhiNgoaiCoThe.png" alt=""&gt;&lt;/p&gt;
 
-<p><em>CHƯƠNG 7</em>
-<strong>THẾ GIỚI MẠNG</strong></p>
+&lt;p&gt;&lt;em&gt;CHƯƠNG 7&lt;/em&gt;
+&lt;strong&gt;THẾ GIỚI MẠNG&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Chúng ta sống</p></blockquote></description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-06-07-het-the-universe-in-a-nutshell-06-07-end/</link><guid isPermaLink="false">78601fe0-dfd8-4602-8775-cc9df5384350</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 02 May 2015 23:53:12 GMT</pubDate><content:encoded><p><em>CHƯƠNG 6</em>
-<strong>ĐÂU LÀ TƯƠNG LAI CỦA CHÚNG TA?
-CÓ THỂ LÀ STAR TREK HAY KHÔNG?</strong></p>
+&lt;blockquote&gt;
+  &lt;p&gt;Chúng ta sống&lt;/p&gt;&lt;/blockquote&gt;</description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-06-07-het-the-universe-in-a-nutshell-06-07-end/</link><guid isPermaLink="false">78601fe0-dfd8-4602-8775-cc9df5384350</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 02 May 2015 23:53:12 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;CHƯƠNG 6&lt;/em&gt;
+&lt;strong&gt;ĐÂU LÀ TƯƠNG LAI CỦA CHÚNG TA?
+CÓ THỂ LÀ STAR TREK HAY KHÔNG?&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Làm thế nào mà cuộc sống sinh học và điện tử
-  sẽ tiếp tục phát triển độ phức tạp với một tốc độ chưa từng thấy?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Làm thế nào mà cuộc sống sinh học và điện tử
+  sẽ tiếp tục phát triển độ phức tạp với một tốc độ chưa từng thấy?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/05/ThaiNhiNgoaiCoThe.png" alt=""></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/05/ThaiNhiNgoaiCoThe.png" alt=""&gt;&lt;/p&gt;
 
-<p><em>CHƯƠNG 7</em>
-<strong>THẾ GIỚI MẠNG</strong></p>
+&lt;p&gt;&lt;em&gt;CHƯƠNG 7&lt;/em&gt;
+&lt;strong&gt;THẾ GIỚI MẠNG&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Chúng ta sống trên một mạng hay chúng ta chỉ là một ảnh đa chiều?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Chúng ta sống trên một mạng hay chúng ta chỉ là một ảnh đa chiều?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong><em>Bằng chứng về Vật chất tối</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bằng chứng về Vật chất tối&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p>Rất nhiều các quan sát vũ trụ khác nhau gợi ý rằng, trong thiên hà của chúng ta và trong các thiên hà khác, vật chất nhiều hơn chúng ta nhìn thấy rất nhiều. Quan sát thuyết phục nhất là các ngôi sao ở ngoài rìa các thiên hà xoáy ốc như Ngân hà của chúng ta quay quá nhanh, nếu chỉ những ngôi sao mà chúng ta nhìn thấy thì không thể giữ chúng trên các quĩ đạo được.</p>
+&lt;p&gt;Rất nhiều các quan sát vũ trụ khác nhau gợi ý rằng, trong thiên hà của chúng ta và trong các thiên hà khác, vật chất nhiều hơn chúng ta nhìn thấy rất nhiều. Quan sát thuyết phục nhất là các ngôi sao ở ngoài rìa các thiên hà xoáy ốc như Ngân hà của chúng ta quay quá nhanh, nếu chỉ những ngôi sao mà chúng ta nhìn thấy thì không thể giữ chúng trên các quĩ đạo được.&lt;/p&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/05/BangChungVCToi.png" alt="Bang chung Vat chat toi"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/05/BangChungVCToi.png" alt="Bang chung Vat chat toi"&gt;&lt;/p&gt;
 
-<p>Từ những năm 1970, chúng ta đã thấy có một sự chênh lệch giữa vận tốc quay của các ngôi sao ở vùng rìa của các thiên hà hình xoáy ốc (biểu diễn bằng các đường chấm trên giản đồ) và vận tốc quay theo các định luật chuyển động của Newton với sự phân bố của các ngôi sao khả kiến trong thiên hà (đường cong liền nét trên giản đồ). Sự chênh lệch này cho thấy cần phải có nhiều vật chất hơn ở các vùng biên của các thiên hà xoáy ốc.</p>
+&lt;p&gt;Từ những năm 1970, chúng ta đã thấy có một sự chênh lệch giữa vận tốc quay của các ngôi sao ở vùng rìa của các thiên hà hình xoáy ốc (biểu diễn bằng các đường chấm trên giản đồ) và vận tốc quay theo các định luật chuyển động của Newton với sự phân bố của các ngôi sao khả kiến trong thiên hà (đường cong liền nét trên giản đồ). Sự chênh lệch này cho thấy cần phải có nhiều vật chất hơn ở các vùng biên của các thiên hà xoáy ốc.&lt;/p&gt;
 
-<p><strong><em>Bản chất của Vật chất tối</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bản chất của Vật chất tối&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p>Ngày nay, các nhà vũ trụ học tin rằng phần tâm của các thiên hà xoáy ốc chủ yếu gồm vật chất thường, nhưng ở phần biên của chúng lại chủ yếu gồm vật chất tối mà chúng ta không thể nhìn chúng một cách trực tiếp. Nhưng một trong những vấn đề quan trọng nhất là tìm ra bản chất của vật chất tối thống trị vùng biên của các thiên hà. Trước những năm 1980, người ta cho rằng vật chất tối này cũng là vật chất thường tạo thành từ proton, neutron và điện tử nhưng ở dạng không thể quan sát được: có thể là các đám mây khí, hoặc các vật thể cô đặc nặng không phát sáng MACHO (massive compact halo object) như là các sao lùn trắng, sao neutron, hoặc thậm chí là các hố đen.</p>
+&lt;p&gt;Ngày nay, các nhà vũ trụ học tin rằng phần tâm của các thiên hà xoáy ốc chủ yếu gồm vật chất thường, nhưng ở phần biên của chúng lại chủ yếu gồm vật chất tối mà chúng ta không thể nhìn chúng một cách trực tiếp. Nhưng một trong những vấn đề quan trọng nhất là tìm ra bản chất của vật chất tối thống trị vùng biên của các thiên hà. Trước những năm 1980, người ta cho rằng vật chất tối này cũng là vật chất thường tạo thành từ proton, neutron và điện tử nhưng ở dạng không thể quan sát được: có thể là các đám mây khí, hoặc các vật thể cô đặc nặng không phát sáng MACHO (massive compact halo object) như là các sao lùn trắng, sao neutron, hoặc thậm chí là các hố đen.&lt;/p&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/05/BanChatVCToi.png" alt="Ban chat Vat chat toi"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/05/BanChatVCToi.png" alt="Ban chat Vat chat toi"&gt;&lt;/p&gt;
 
-<p>Tuy nhiên, các nghiên cứu gần đây về sự hình thành các thiên hà đã làm cho các nhà vũ trụ học tin rằng một phần đáng kể của vật chất tối cần phải ở dạng khác vật chất thường. Có thể xuất hiện từ khối lượng của các hạt rất nhẹ như là các hạt axion hoặc neutrino. Chúng còn có thể gồm các thực thể kỳ lạ hơn như là các hạt nặng tương tác yếu WIMP (weakly interacting massive particle) – tiên đoán từ các lý thuyết hạt cơ bản hiện đại, nhưng ta vẫn chưa thu được từ thực nghiệm.</p>
+&lt;p&gt;Tuy nhiên, các nghiên cứu gần đây về sự hình thành các thiên hà đã làm cho các nhà vũ trụ học tin rằng một phần đáng kể của vật chất tối cần phải ở dạng khác vật chất thường. Có thể xuất hiện từ khối lượng của các hạt rất nhẹ như là các hạt axion hoặc neutrino. Chúng còn có thể gồm các thực thể kỳ lạ hơn như là các hạt nặng tương tác yếu WIMP (weakly interacting massive particle) – tiên đoán từ các lý thuyết hạt cơ bản hiện đại, nhưng ta vẫn chưa thu được từ thực nghiệm.&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Ws5Dm9UIDqc" frameborder="0" allowfullscreen></iframe></content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #05 - The Universe in a nutshell #05</title><description><p><em>CHƯƠNG 5</em>
-<strong>BẢO VỆ QUÁ KHỨ</strong></p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/Ws5Dm9UIDqc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #05 - The Universe in a nutshell #05</title><description>&lt;p&gt;&lt;em&gt;CHƯƠNG 5&lt;/em&gt;
+&lt;strong&gt;BẢO VỆ QUÁ KHỨ&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Liệu có thể du hành thời gian được không?
-  Một nền văn minh tiên tiến có thể quay lại và thay đổi quá khứ được không?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Liệu có thể du hành thời gian được không?
+  Một nền văn minh tiên tiến có thể quay lại và thay đổi quá khứ được không?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong><em>Dây vũ trụ</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dây vũ trụ&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p>Các dây vũ trụ là các vật thể dài, nặng và có thiết diện rất</p></description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04-2/</link><guid isPermaLink="false">162a12ea-b064-4070-ada3-13091be9fb33</guid><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 25 Apr 2015 14:56:01 GMT</pubDate><content:encoded><p><em>CHƯƠNG 5</em>
-<strong>BẢO VỆ QUÁ KHỨ</strong></p>
+&lt;p&gt;Các dây vũ trụ là các vật thể dài, nặng và có thiết diện rất&lt;/p&gt;</description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04-2/</link><guid isPermaLink="false">162a12ea-b064-4070-ada3-13091be9fb33</guid><dc:creator>Hardy Pham</dc:creator><pubDate>Sat, 25 Apr 2015 14:56:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;CHƯƠNG 5&lt;/em&gt;
+&lt;strong&gt;BẢO VỆ QUÁ KHỨ&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Liệu có thể du hành thời gian được không?
-  Một nền văn minh tiên tiến có thể quay lại và thay đổi quá khứ được không?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Liệu có thể du hành thời gian được không?
+  Một nền văn minh tiên tiến có thể quay lại và thay đổi quá khứ được không?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong><em>Dây vũ trụ</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dây vũ trụ&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p>Các dây vũ trụ là các vật thể dài, nặng và có thiết diện rất nhỏ. Các dây này có lẽ được tạo ra tại các thời kỳ sơ khai của vũ trụ. Một khi các dây được hình thành, chúng bị kéo dài ra do vũ trụ giãn nở, và bây giờ, một dây vũ trụ có thể kéo dài theo toàn bộ vùng vũ trụ có thể quan sát.</p>
+&lt;p&gt;Các dây vũ trụ là các vật thể dài, nặng và có thiết diện rất nhỏ. Các dây này có lẽ được tạo ra tại các thời kỳ sơ khai của vũ trụ. Một khi các dây được hình thành, chúng bị kéo dài ra do vũ trụ giãn nở, và bây giờ, một dây vũ trụ có thể kéo dài theo toàn bộ vùng vũ trụ có thể quan sát.&lt;/p&gt;
 
-<p>Sự xuất hiện của các dây vũ trụ đến từ các lý thuyết mới về hạt cơ bản. Chúng tiên đoán rằng, tại các giai đoạn ban đầu nóng bỏng, vật chất ở trong một pha đối xứng, rất giống nước ở trạng thái lỏng – rất đối xứng: giống nhau tại mọi điểm và theo mọi hướng – chứ không giống trong tinh thể nước đóng băng có các cấu trúc rời rạc.</p>
+&lt;p&gt;Sự xuất hiện của các dây vũ trụ đến từ các lý thuyết mới về hạt cơ bản. Chúng tiên đoán rằng, tại các giai đoạn ban đầu nóng bỏng, vật chất ở trong một pha đối xứng, rất giống nước ở trạng thái lỏng – rất đối xứng: giống nhau tại mọi điểm và theo mọi hướng – chứ không giống trong tinh thể nước đóng băng có các cấu trúc rời rạc.&lt;/p&gt;
 
-<p>Khi vũ trụ lạnh đi, tính đối xứng của pha ban đầu này có thể đã bị phá vỡ theo các cách khác nhau ở các vùng xa nhau. Kết quả là vật chất vũ trụ ở các vùng đó có các trạng thái cơ bản khác nhau. Do đó, sự hình thành của chúng là một hệ quả không thể tránh khỏi của việc các vùng khác nhau có các trạng thái cơ bản khác nhau.</p>
+&lt;p&gt;Khi vũ trụ lạnh đi, tính đối xứng của pha ban đầu này có thể đã bị phá vỡ theo các cách khác nhau ở các vùng xa nhau. Kết quả là vật chất vũ trụ ở các vùng đó có các trạng thái cơ bản khác nhau. Do đó, sự hình thành của chúng là một hệ quả không thể tránh khỏi của việc các vùng khác nhau có các trạng thái cơ bản khác nhau.&lt;/p&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/DayVuTru.png" alt="Dây vũ trụ"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/DayVuTru.png" alt="Dây vũ trụ"&gt;&lt;/p&gt;
 
-<p><strong><em>Định lý không đủ của Gödel</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Định lý không đủ của Gödel&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p><img src="http://www.qotd.org/portraits/Godel,Kurt.jpg" alt="Kurt Gödel"></p>
+&lt;p&gt;&lt;img src="http://www.qotd.org/portraits/Godel,Kurt.jpg" alt="Kurt Gödel"&gt;&lt;/p&gt;
 
-<p>Vào năm 1931, nhà toán học <a href="http://en.wikipedia.org/wiki/Kurt_Gödel">Kurt Gödel</a> chứng minh <a href="http://en.wikipedia.org/wiki/Gödel's_incompleteness_theorems">Định lý không đủ</a> nổi tiếng của ông về bản chất của toán học. Định lý phát biểu rằng trong bất kỳ một hệ tiên đề hình thức nào, giống như toán học ngày nay, các câu hỏi về việc chứng minh hoặc bác bỏ các tiên đề xác định các hệ, luôn luôn tồn tại. Nói cách khác là Gödel đã chứng minh rằng luôn tồn tại những bài toán không thể giải bằng bất kỳ tập hợp các quy tắc hoặc quá trình.</p>
+&lt;p&gt;Vào năm 1931, nhà toán học &lt;a href="http://en.wikipedia.org/wiki/Kurt_G%C3%B6del"&gt;Kurt Gödel&lt;/a&gt; chứng minh &lt;a href="http://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems"&gt;Định lý không đủ&lt;/a&gt; nổi tiếng của ông về bản chất của toán học. Định lý phát biểu rằng trong bất kỳ một hệ tiên đề hình thức nào, giống như toán học ngày nay, các câu hỏi về việc chứng minh hoặc bác bỏ các tiên đề xác định các hệ, luôn luôn tồn tại. Nói cách khác là Gödel đã chứng minh rằng luôn tồn tại những bài toán không thể giải bằng bất kỳ tập hợp các quy tắc hoặc quá trình.&lt;/p&gt;
 
-<p>Định lý Gödel đặt giới hạn cho toán học. Điều này đã gây sửng sốt cho giới khoa học vì nó đã đạp đổ niềm tin bấy lâu cho rằng toán học là một hệ thống chặt chẽ và hoàn thiện dựa trên các chuyên tắc lôgic. Định lý Gödel, nguyên lý bất định Heisenberg và việc không thể tiên đoán sự tiến hóa ngay cả ở trong các hệ quyết định luận (trở thành hỗn loạn) tạo nên một tập hợp các giới hạn cho tri thức khoa học, điều đó chỉ có thể được nhận thấy vào thế kỷ hai mươi.</p>
+&lt;p&gt;Định lý Gödel đặt giới hạn cho toán học. Điều này đã gây sửng sốt cho giới khoa học vì nó đã đạp đổ niềm tin bấy lâu cho rằng toán học là một hệ thống chặt chẽ và hoàn thiện dựa trên các chuyên tắc lôgic. Định lý Gödel, nguyên lý bất định Heisenberg và việc không thể tiên đoán sự tiến hóa ngay cả ở trong các hệ quyết định luận (trở thành hỗn loạn) tạo nên một tập hợp các giới hạn cho tri thức khoa học, điều đó chỉ có thể được nhận thấy vào thế kỷ hai mươi.&lt;/p&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/QuayTrongKhongGianPhang.png" alt="Quay trong khong gian phang"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/QuayTrongKhongGianPhang.png" alt="Quay trong khong gian phang"&gt;&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/E9137Oc2seA" frameborder="0" allowfullscreen></iframe></content:encoded></item><item><title>Weird bug with PHP function floor()</title><description><p>In my project, I have to deal with a small problem: <br>
-<strong>Input</strong>: Some strings/numbers with value $"a_1a_2..a_n.xy"$
-($a_1, a_2, a_n, x, y$ are numbers in [0..9])</p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/E9137Oc2seA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>Weird bug with PHP function floor()</title><description>&lt;p&gt;In my project, I have to deal with a small problem: &lt;br&gt;
+&lt;strong&gt;Input&lt;/strong&gt;: Some strings/numbers with value $"a_1a_2..a_n.xy"$
+($a_1, a_2, a_n, x, y$ are numbers in [0..9])&lt;/p&gt;
 
-<p>For examples, "12345.04", "384.13", etc. <br>
-<strong>Output</strong>: Two numbers that were substrings from</p></description><link>http://localhost:2368/weird-bug-with-php-function-floor/</link><guid isPermaLink="false">2b8e5d0a-150b-401c-aacf-0c0a5511dd89</guid><category>Tips and Tricks</category><category>php</category><category>bug</category><category>code</category><dc:creator>Hardy Pham</dc:creator><pubDate>Fri, 24 Apr 2015 08:07:36 GMT</pubDate><content:encoded><p>In my project, I have to deal with a small problem: <br>
-<strong>Input</strong>: Some strings/numbers with value $"a_1a_2..a_n.xy"$
-($a_1, a_2, a_n, x, y$ are numbers in [0..9])</p>
+&lt;p&gt;For examples, "12345.04", "384.13", etc. &lt;br&gt;
+&lt;strong&gt;Output&lt;/strong&gt;: Two numbers that were substrings from&lt;/p&gt;</description><link>http://localhost:2368/weird-bug-with-php-function-floor/</link><guid isPermaLink="false">2b8e5d0a-150b-401c-aacf-0c0a5511dd89</guid><category>Tips and Tricks</category><category>php</category><category>bug</category><category>code</category><dc:creator>Hardy Pham</dc:creator><pubDate>Fri, 24 Apr 2015 08:07:36 GMT</pubDate><content:encoded>&lt;p&gt;In my project, I have to deal with a small problem: &lt;br&gt;
+&lt;strong&gt;Input&lt;/strong&gt;: Some strings/numbers with value $"a_1a_2..a_n.xy"$
+($a_1, a_2, a_n, x, y$ are numbers in [0..9])&lt;/p&gt;
 
-<p>For examples, "12345.04", "384.13", etc. <br>
-<strong>Output</strong>: Two numbers that were substrings from input splited by "."
-(12345 and 04, 384 and 13, etc.)</p>
+&lt;p&gt;For examples, "12345.04", "384.13", etc. &lt;br&gt;
+&lt;strong&gt;Output&lt;/strong&gt;: Two numbers that were substrings from input splited by "."
+(12345 and 04, 384 and 13, etc.)&lt;/p&gt;
 
-<p>OK, that's quite easy. At the beginning, I came up with this solution:</p>
+&lt;p&gt;OK, that's quite easy. At the beginning, I came up with this solution:&lt;/p&gt;
 
-<pre><code class="language-php">$a = '1704.09';
+&lt;pre&gt;&lt;code class="language-php"&gt;$a = '1704.09';
 $b = floor($a);    // first number
 $c = (int)($a * 100) - $b * 100;    // second number
-echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;  
-</code></pre>
+echo $a."&amp;lt;br /&amp;gt;".$b."&amp;lt;br /&amp;gt;".$c;  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Everything seems to be fine, <a href="http://php.net/manual/en/function.floor.php">function floor()</a> giving you the lowest bounding integer of a float. Lately, I realized that my code provides wrong results with some inputs ended by ".01": "77655.01", "17064.01", etc. Of course, my code has to be changed:</p>
+&lt;p&gt;Everything seems to be fine, &lt;a href="http://php.net/manual/en/function.floor.php"&gt;function floor()&lt;/a&gt; giving you the lowest bounding integer of a float. Lately, I realized that my code provides wrong results with some inputs ended by ".01": "77655.01", "17064.01", etc. Of course, my code has to be changed:&lt;/p&gt;
 
-<pre><code class="language-php">$a = '1704.01';
+&lt;pre&gt;&lt;code class="language-php"&gt;$a = '1704.01';
 $array_a = explode(".", $a);
 $b = (int) $array_a[0];    // first number
 $c = (int) $array_a[1];    // second number
-echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;  
-</code></pre>
+echo $a."&amp;lt;br /&amp;gt;".$b."&amp;lt;br /&amp;gt;".$c;  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>The following code shows that from $0$ to $10^7$, there are exactly 610143 numbers $x$ have property: $100 * (x + 0.01) \neq \ "x01"$</p>
+&lt;p&gt;The following code shows that from $0$ to $10^7$, there are exactly 610143 numbers $x$ have property: $100 * (x + 0.01) \neq \ "x01"$&lt;/p&gt;
 
-<pre><code class="language-php">$counter = 0;
-for($i = 0; $i &lt; 10000000; $i++) {  
+&lt;pre&gt;&lt;code class="language-php"&gt;$counter = 0;
+for($i = 0; $i &amp;lt; 10000000; $i++) {  
     $a = $i.'.'.'01';
     $f = floor($a);
     $b = (int)($a * 100) - $f * 100;
     if($b == 0) {
         echo $i;
-        echo "&lt;br /&gt;";
+        echo "&amp;lt;br /&amp;gt;";
         $counter++;
     }
 }
-echo "=== DONE ===&lt;br /&gt;";  
+echo "=== DONE ===&amp;lt;br /&amp;gt;";  
 echo $counter;  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Interesting, so be careful with PHP floor() function if you use it :)</p></content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #04 - The Universe in a nutshell #04</title><description><p><em>CHƯƠNG 4</em>
-<strong>TIÊN ĐOÁN TƯƠNG LAI</strong></p>
+&lt;p&gt;Interesting, so be careful with PHP floor() function if you use it :)&lt;/p&gt;</content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #04 - The Universe in a nutshell #04</title><description>&lt;p&gt;&lt;em&gt;CHƯƠNG 4&lt;/em&gt;
+&lt;strong&gt;TIÊN ĐOÁN TƯƠNG LAI&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Sự biến mất của thông tin trong các hố đen có thể làm giảm khả năng tiên đoán tương lai của chúng ta như thế nào?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Sự biến mất của thông tin trong các hố đen có thể làm giảm khả năng tiên đoán tương lai của chúng ta như thế nào?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong><em>Hố đen Schwarzschild</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Hố đen Schwarzschild&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/4/48/Schwarzschild.jpg" alt="Karl Schwarzschild"></p>
+&lt;p&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/4/48/Schwarzschild.jpg" alt="Karl Schwarzschild"&gt;&lt;/p&gt;
 
-<p>Năm 1916, một nhà thiên văn học người Đức <a href="http://en.wikipedia.org/wiki/Karl_Schwarzschild">Karl Schwarzschild</a> tìm thấy một nghiệm</p></description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04/</link><guid isPermaLink="false">555cc7fb-f58a-4fb6-87ca-f0e8e8054e10</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Tue, 21 Apr 2015 03:07:37 GMT</pubDate><content:encoded><p><em>CHƯƠNG 4</em>
-<strong>TIÊN ĐOÁN TƯƠNG LAI</strong></p>
+&lt;p&gt;Năm 1916, một nhà thiên văn học người Đức &lt;a href="http://en.wikipedia.org/wiki/Karl_Schwarzschild"&gt;Karl Schwarzschild&lt;/a&gt; tìm thấy một nghiệm&lt;/p&gt;</description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04/</link><guid isPermaLink="false">555cc7fb-f58a-4fb6-87ca-f0e8e8054e10</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Tue, 21 Apr 2015 03:07:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;CHƯƠNG 4&lt;/em&gt;
+&lt;strong&gt;TIÊN ĐOÁN TƯƠNG LAI&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Sự biến mất của thông tin trong các hố đen có thể làm giảm khả năng tiên đoán tương lai của chúng ta như thế nào?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Sự biến mất của thông tin trong các hố đen có thể làm giảm khả năng tiên đoán tương lai của chúng ta như thế nào?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong><em>Hố đen Schwarzschild</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Hố đen Schwarzschild&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/4/48/Schwarzschild.jpg" alt="Karl Schwarzschild"></p>
+&lt;p&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/4/48/Schwarzschild.jpg" alt="Karl Schwarzschild"&gt;&lt;/p&gt;
 
-<p>Năm 1916, một nhà thiên văn học người Đức <a href="http://en.wikipedia.org/wiki/Karl_Schwarzschild">Karl Schwarzschild</a> tìm thấy một nghiệm từ lý thuyết tương đối của Einstein đại diện cho một hố đen hình cầu. Công trình của Schwarzschild tiếp lộ một bí ẩn bất ngờ của thuyết tương đối. Ông chứng minh rằng nếu một ngôi sao bị cô đặc trong một vùng đủ nhỏ thì trường hấp dẫn tại bề mặt sẽ trở nên mạnh đến mức ánh sáng cũng không thể thoát được. Ngày nay ngôi sao như thế được gọi là một hố đen, một vùng không thời gian bị bao bởi một cái gọi là chân trời sự kiện, nó giới hạn vùng không gian mà tất cả mọi thứ, ngay cả ánh sáng cũng không thể thoát ra để đến với người quan sát.</p>
+&lt;p&gt;Năm 1916, một nhà thiên văn học người Đức &lt;a href="http://en.wikipedia.org/wiki/Karl_Schwarzschild"&gt;Karl Schwarzschild&lt;/a&gt; tìm thấy một nghiệm từ lý thuyết tương đối của Einstein đại diện cho một hố đen hình cầu. Công trình của Schwarzschild tiếp lộ một bí ẩn bất ngờ của thuyết tương đối. Ông chứng minh rằng nếu một ngôi sao bị cô đặc trong một vùng đủ nhỏ thì trường hấp dẫn tại bề mặt sẽ trở nên mạnh đến mức ánh sáng cũng không thể thoát được. Ngày nay ngôi sao như thế được gọi là một hố đen, một vùng không thời gian bị bao bởi một cái gọi là chân trời sự kiện, nó giới hạn vùng không gian mà tất cả mọi thứ, ngay cả ánh sáng cũng không thể thoát ra để đến với người quan sát.&lt;/p&gt;
 
-<p>Trong một thời kỳ rất dài, các nhà vật lý, ngay cả Einstein cũng nghi ngờ một hình thể cực đoan như thế của vật chất có thể xuất hiện trong vũ trụ thực. Tuy nhiên, ngày nay chúng ta hiểu rằng bất kỳ một ngôi sao không quay, đủ nặng, sau khi đốt hết nhiên liệu hạt nhân sẽ phải suy sụp thành hố đen hình cầu hoàn hảo của Schwarzschild. Đường kính (R) của chân trời sự kiện của hố đen chỉ phụ thuộc vào khối lượng của nó, và được cho bởi công thức:</p>
+&lt;p&gt;Trong một thời kỳ rất dài, các nhà vật lý, ngay cả Einstein cũng nghi ngờ một hình thể cực đoan như thế của vật chất có thể xuất hiện trong vũ trụ thực. Tuy nhiên, ngày nay chúng ta hiểu rằng bất kỳ một ngôi sao không quay, đủ nặng, sau khi đốt hết nhiên liệu hạt nhân sẽ phải suy sụp thành hố đen hình cầu hoàn hảo của Schwarzschild. Đường kính (R) của chân trời sự kiện của hố đen chỉ phụ thuộc vào khối lượng của nó, và được cho bởi công thức:&lt;/p&gt;
 
-<p>$$R = \frac{2MG}{c^2}$$</p>
+&lt;p&gt;$$R = \frac{2MG}{c^2}$$&lt;/p&gt;
 
-<p>Trong công thức này, c là vận tốc ánh sáng, G là hằng số Newton, và M là khối lượng của hố đen. Một hố đen có khối lượng bằng khối lượng mặt trời sẽ có bán kính bằng hai dặm.</p>
+&lt;p&gt;Trong công thức này, c là vận tốc ánh sáng, G là hằng số Newton, và M là khối lượng của hố đen. Một hố đen có khối lượng bằng khối lượng mặt trời sẽ có bán kính bằng hai dặm.&lt;/p&gt;
 
-<p><strong><em>John Wheeler</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;John Wheeler&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p><a href="http://en.wikipedia.org/wiki/John_Archibald_Wheeler">John Achibald Wheeler</a> sinh năm 1911 tại Jacksonville, Florida, Hoa Kỳ. Ông lấy bằng tiến sỹ về tán xạ của ánh sáng lên nguyên tử Helium ở đại học John Hopkins năm 1933. Năm 1938 ông làm việc cùng nhà vật lý Đan Mạch Niels Bohr để phát triển lý thuyết phân hạch. Sau đó một thời gian, ông làm việc cùng với sinh viên của ông là Richard Feynman, tập trung nghiên cứu nhiệt động học; nhưng ngay sau khi Hoa Kỳ tham gia đại chiến thế giới 2, cả hai đều đóng góp vào <a href="http://en.wikipedia.org/wiki/Manhattan_Project">Dự án Manhattan</a>. Vào những năm đầu thập kỷ 50, lấy cảm hứng từ công trình về sự suy sụp hấp dẫn của những ngôi sao nặng của Robert Oppenheimer vào năm 1939, Wheeler chuyển sang thuyết tương đối rộng của Einstein. Vào thời gian đó, phần lớn các nhà vật lý đều nghiên cứu vật lý hạt nhân và thuyết tương đối rộng không thực sự được coi là phù hợp với thế giới vật lý. Nhưng gần như một mình Wheeler đơn thương độc mã làm thay đổi lĩnh vực nghiên cứu thông qua các công trình của ông và thông qua việc giảng dạy khóa học đầu tiên về thuyết tương đối ở đại học Princeton.</p>
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/John_Archibald_Wheeler"&gt;John Achibald Wheeler&lt;/a&gt; sinh năm 1911 tại Jacksonville, Florida, Hoa Kỳ. Ông lấy bằng tiến sỹ về tán xạ của ánh sáng lên nguyên tử Helium ở đại học John Hopkins năm 1933. Năm 1938 ông làm việc cùng nhà vật lý Đan Mạch Niels Bohr để phát triển lý thuyết phân hạch. Sau đó một thời gian, ông làm việc cùng với sinh viên của ông là Richard Feynman, tập trung nghiên cứu nhiệt động học; nhưng ngay sau khi Hoa Kỳ tham gia đại chiến thế giới 2, cả hai đều đóng góp vào &lt;a href="http://en.wikipedia.org/wiki/Manhattan_Project"&gt;Dự án Manhattan&lt;/a&gt;. Vào những năm đầu thập kỷ 50, lấy cảm hứng từ công trình về sự suy sụp hấp dẫn của những ngôi sao nặng của Robert Oppenheimer vào năm 1939, Wheeler chuyển sang thuyết tương đối rộng của Einstein. Vào thời gian đó, phần lớn các nhà vật lý đều nghiên cứu vật lý hạt nhân và thuyết tương đối rộng không thực sự được coi là phù hợp với thế giới vật lý. Nhưng gần như một mình Wheeler đơn thương độc mã làm thay đổi lĩnh vực nghiên cứu thông qua các công trình của ông và thông qua việc giảng dạy khóa học đầu tiên về thuyết tương đối ở đại học Princeton.&lt;/p&gt;
 
-<p><img src="http://graphics8.nytimes.com/images/2008/04/14/us/14wheeler.600.1.jpg" alt="John Achibald Wheeler"></p>
+&lt;p&gt;&lt;img src="http://graphics8.nytimes.com/images/2008/04/14/us/14wheeler.600.1.jpg" alt="John Achibald Wheeler"&gt;&lt;/p&gt;
 
-<p>Rất lâu sau, vào năm 1969, ông đưa ra khái niệm “hố đen”, mà lúc bấy giờ chỉ có một số ít người tin rằng nó tồn tại, để chỉ trạng thái suy sụp của vật chất. Và từ công trình của Werner Israel, ông dự đoán rằng hố đen không có tóc, ám chỉ trạng thái suy sụp cả bất kỳ ngôi sao nặng không quay nào cũng có thể được mô tả bằng nghiệm Schwarzschild.</p>
+&lt;p&gt;Rất lâu sau, vào năm 1969, ông đưa ra khái niệm “hố đen”, mà lúc bấy giờ chỉ có một số ít người tin rằng nó tồn tại, để chỉ trạng thái suy sụp của vật chất. Và từ công trình của Werner Israel, ông dự đoán rằng hố đen không có tóc, ám chỉ trạng thái suy sụp cả bất kỳ ngôi sao nặng không quay nào cũng có thể được mô tả bằng nghiệm Schwarzschild.&lt;/p&gt;
 
-<p><img src="http://1701news.com/sites/default/files/imagecache/pe_image/storygraphic/hawkingtng08292012.jpg" alt="Một cảnh trong phim Star Trek: The Next Generation, 2001"></p>
+&lt;p&gt;&lt;img src="http://1701news.com/sites/default/files/imagecache/pe_image/storygraphic/hawkingtng08292012.jpg" alt="Một cảnh trong phim Star Trek: The Next Generation, 2001"&gt;&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ZMEZR80of4w" frameborder="0" allowfullscreen></iframe></content:encoded></item><item><title>Arch Linux Installation</title><description><p><mark><em>Note</em></mark> : Arch is one of my favorite GNU/Linux distributions, however it is not quite easy to install. So I document some procedures for future references. This is <strong>not</strong> a complete guide.</p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/ZMEZR80of4w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>Arch Linux Installation</title><description>&lt;p&gt;&lt;mark&gt;&lt;em&gt;Note&lt;/em&gt;&lt;/mark&gt; : Arch is one of my favorite GNU/Linux distributions, however it is not quite easy to install. So I document some procedures for future references. This is &lt;strong&gt;not&lt;/strong&gt; a complete guide.&lt;/p&gt;
 
-<hr>
+&lt;hr&gt;
 
-<ul>
-<li>Boot from Arch CD/DVD</li>
-<li>Prepare the hard drives</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Boot from Arch CD/DVD&lt;/li&gt;
+&lt;li&gt;Prepare the hard drives&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">fdisk -l  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;fdisk -l  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">cgdisk /dev/sda  
-mkfs.vfat -F32 -n</code></pre></description><link>http://localhost:2368/arch-linux-installation/</link><guid isPermaLink="false">ede15cf2-b834-47d4-903a-920a0d3df02b</guid><category>arch</category><category>linux</category><category>installation</category><dc:creator>Hardy Pham</dc:creator><pubDate>Mon, 20 Apr 2015 04:26:33 GMT</pubDate><content:encoded><p><mark><em>Note</em></mark> : Arch is one of my favorite GNU/Linux distributions, however it is not quite easy to install. So I document some procedures for future references. This is <strong>not</strong> a complete guide.</p>
+&lt;pre&gt;&lt;code class="language-bash"&gt;cgdisk /dev/sda  
+mkfs.vfat -F32 -n&lt;/code&gt;&lt;/pre&gt;</description><link>http://localhost:2368/arch-linux-installation/</link><guid isPermaLink="false">ede15cf2-b834-47d4-903a-920a0d3df02b</guid><category>arch</category><category>linux</category><category>installation</category><dc:creator>Hardy Pham</dc:creator><pubDate>Mon, 20 Apr 2015 04:26:33 GMT</pubDate><content:encoded>&lt;p&gt;&lt;mark&gt;&lt;em&gt;Note&lt;/em&gt;&lt;/mark&gt; : Arch is one of my favorite GNU/Linux distributions, however it is not quite easy to install. So I document some procedures for future references. This is &lt;strong&gt;not&lt;/strong&gt; a complete guide.&lt;/p&gt;
 
-<hr>
+&lt;hr&gt;
 
-<ul>
-<li>Boot from Arch CD/DVD</li>
-<li>Prepare the hard drives</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Boot from Arch CD/DVD&lt;/li&gt;
+&lt;li&gt;Prepare the hard drives&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">fdisk -l  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;fdisk -l  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">cgdisk /dev/sda  
+&lt;pre&gt;&lt;code class="language-bash"&gt;cgdisk /dev/sda  
 mkfs.vfat -F32 -n efi /dev/sda1 # -F## is not required on most firmwares; FAT12/16 usually work  
 mkfs.ext4 -L "Arch Linux" /dev/sda2 # / mount point  
 mkfs.ext4 -L "Home" /dev/sda2 # /home mount point  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">mount /dev/sda2 /mnt  
+&lt;pre&gt;&lt;code class="language-bash"&gt;mount /dev/sda2 /mnt  
 mkdir -p /mnt/boot  
 mount -o noatime /dev/sda1 /mnt/boot  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>If "Failed to mount '/dev/sda1': Invalid argument"  </p>
+&lt;p&gt;If "Failed to mount '/dev/sda1': Invalid argument"  &lt;/p&gt;
 
-<pre><code class="language-bash">ntfsfix /dev/sda1  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;ntfsfix /dev/sda1  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">nano /etc/pacman.d/mirrorlist  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;nano /etc/pacman.d/mirrorlist  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Scroll down to your preferred mirror (the closer to your location the better), press Alt+6 to copy the line, then scroll back up and press Ctrl+U to paste that line at the top of the list.</p>
+&lt;p&gt;Scroll down to your preferred mirror (the closer to your location the better), press Alt+6 to copy the line, then scroll back up and press Ctrl+U to paste that line at the top of the list.&lt;/p&gt;
 
-<ul>
-<li>Install the Arch Base System</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Install the Arch Base System&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">pacstrap -i /mnt base base-devel grub-efi-x86_64  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;pacstrap -i /mnt base base-devel grub-efi-x86_64  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">genfstab -U -p /mnt &gt;&gt; /mnt/etc/fstab  
+&lt;pre&gt;&lt;code class="language-bash"&gt;genfstab -U -p /mnt &amp;gt;&amp;gt; /mnt/etc/fstab  
 nano /mnt/etc/fstab  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">arch-chroot /mnt /bin/bash  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;arch-chroot /mnt /bin/bash  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">nano /etc/locale.gen  
+&lt;pre&gt;&lt;code class="language-bash"&gt;nano /etc/locale.gen  
 locale-gen  
-echo LANG=en_US.UTF-8 &gt; /etc/locale.conf  
+echo LANG=en_US.UTF-8 &amp;gt; /etc/locale.conf  
 export LANG=en_US.UTF-8  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">ls /usr/share/zoneinfo  
+&lt;pre&gt;&lt;code class="language-bash"&gt;ls /usr/share/zoneinfo  
 ln -s /usr/share/zoneinfo/Asia/Ho_Chi_Minh /etc/localtime  
 pacman -S ntp  
 ntpd -qg  
 hwclock --systohc  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">echo kozyice &gt; /etc/hostname  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;echo kozyice &amp;gt; /etc/hostname  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>(Exchange 'kozyice' with the desired name for the system.)</p>
+&lt;p&gt;(Exchange 'kozyice' with the desired name for the system.)&lt;/p&gt;
 
-<ul>
-<li>Set Up Your Network</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Set Up Your Network&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">ip link  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;ip link  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p><em>Wired Connection</em></p>
+&lt;p&gt;&lt;em&gt;Wired Connection&lt;/em&gt;&lt;/p&gt;
 
-<pre><code class="language-bash">systemctl enable dhcpcd@enp3s0.service  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;systemctl enable dhcpcd@enp3s0.service  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p><em>Wireless Connection</em></p>
+&lt;p&gt;&lt;em&gt;Wireless Connection&lt;/em&gt;&lt;/p&gt;
 
-<pre><code class="language-bash">pacman -S wireless_tools wpa_supplicant wpa_actiond dialog  
+&lt;pre&gt;&lt;code class="language-bash"&gt;pacman -S wireless_tools wpa_supplicant wpa_actiond dialog  
 wifi-menu  
 systemctl enable net-auto-wireless.service  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<ul>
-<li>Configure Your Package Manager</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Configure Your Package Manager&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">nano /etc/pacman.conf  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;nano /etc/pacman.conf  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Scroll down to the "Repositories" section. The [core], [extra], and [community] repositories should already be uncommented, but if you're on a 64-bit machine, you should also enable the [multilib] repository, which lets you install both 64- and 32-bit programs. To do so, add the following lines to the bottom of the config file:</p>
+&lt;p&gt;Scroll down to the "Repositories" section. The [core], [extra], and [community] repositories should already be uncommented, but if you're on a 64-bit machine, you should also enable the [multilib] repository, which lets you install both 64- and 32-bit programs. To do so, add the following lines to the bottom of the config file:&lt;/p&gt;
 
-<pre><code class="language-ini">[multilib]
+&lt;pre&gt;&lt;code class="language-ini"&gt;[multilib]
 Include = /etc/pacman.d/mirrorlist  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Refresh your repository list:  </p>
+&lt;p&gt;Refresh your repository list:  &lt;/p&gt;
 
-<pre><code class="language-bash">pacman -Sy  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;pacman -Sy  
+&lt;/code&gt;&lt;/pre&gt;
 
-<ul>
-<li>Create an initial ramdisk environment</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Create an initial ramdisk environment&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">mkinitcpio -p linux  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;mkinitcpio -p linux  
+&lt;/code&gt;&lt;/pre&gt;
 
-<ul>
-<li>Create a User Account</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Create a User Account&lt;/li&gt;
+&lt;/ul&gt;
 
-<p>First, set the root password:  </p>
+&lt;p&gt;First, set the root password:  &lt;/p&gt;
 
-<pre><code class="language-bash">passwd  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;passwd  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Create a user account (and a password) for yourself:  </p>
+&lt;p&gt;Create a user account (and a password) for yourself:  &lt;/p&gt;
 
-<pre><code class="language-bash">useradd -m -g users -G wheel,storage,power -s /bin/bash hardy  
+&lt;pre&gt;&lt;code class="language-bash"&gt;useradd -m -g users -G wheel,storage,power -s /bin/bash hardy  
 passwd hardy  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>(Of course, replace 'hardy' with your desired username.)</p>
+&lt;p&gt;(Of course, replace 'hardy' with your desired username.)&lt;/p&gt;
 
-<p>Install <strong>sudo</strong>:  </p>
+&lt;p&gt;Install &lt;strong&gt;sudo&lt;/strong&gt;:  &lt;/p&gt;
 
-<pre><code class="language-bash">pacman -S sudo  
+&lt;pre&gt;&lt;code class="language-bash"&gt;pacman -S sudo  
 EDITOR=nano visudo  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Scroll down until you find this line and uncomment it:  </p>
+&lt;p&gt;Scroll down until you find this line and uncomment it:  &lt;/p&gt;
 
-<pre><code class="language-ini">%wheel ALL=(ALL) ALL
-</code></pre>
+&lt;pre&gt;&lt;code class="language-ini"&gt;%wheel ALL=(ALL) ALL
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Install <strong>bash-completion</strong>:  </p>
+&lt;p&gt;Install &lt;strong&gt;bash-completion&lt;/strong&gt;:  &lt;/p&gt;
 
-<pre><code class="language-bash">pacman -S bash-completion  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;pacman -S bash-completion  
+&lt;/code&gt;&lt;/pre&gt;
 
-<ul>
-<li>Install Your Bootloader (for UEFI motherboards)</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Install Your Bootloader (for UEFI motherboards)&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">pacman -S gummiboot  
+&lt;pre&gt;&lt;code class="language-bash"&gt;pacman -S gummiboot  
 gummiboot --path=/boot install  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">nano /boot/loader/entries/arch.conf  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;nano /boot/loader/entries/arch.conf  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-ini">title          Arch Linux  
+&lt;pre&gt;&lt;code class="language-ini"&gt;title          Arch Linux  
 linux          /vmlinuz-linux  
 initrd         /initramfs-linux.img  
 options        root=/dev/sdaX rw  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-bash">nano /boot/loader/loader.conf  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;nano /boot/loader/loader.conf  
+&lt;/code&gt;&lt;/pre&gt;
 
-<pre><code class="language-ini">timeout       6  
+&lt;pre&gt;&lt;code class="language-ini"&gt;timeout       6  
 default       arch  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Lastly, exit from chroot, unmount your partitions, and reboot your computer:</p>
+&lt;p&gt;Lastly, exit from chroot, unmount your partitions, and reboot your computer:&lt;/p&gt;
 
-<pre><code class="language-bash">exit  
+&lt;pre&gt;&lt;code class="language-bash"&gt;exit  
 umount /mnt/home  
 umount /mnt  
 reboot  
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<ul>
-<li>Get Your Desktop Up and Running</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;Get Your Desktop Up and Running&lt;/li&gt;
+&lt;/ul&gt;
 
-<pre><code class="language-bash">sudo pacman -S xorg-server xorg-server-utils xfce4  
-</code></pre>
+&lt;pre&gt;&lt;code class="language-bash"&gt;sudo pacman -S xorg-server xorg-server-utils xfce4  
+&lt;/code&gt;&lt;/pre&gt;
 
-<p>Go ahead with <a href="https://wiki.archlinux.org/index.php/Xfce">XFCE</a>.</p></content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #03 - The Universe in a nutshell #03</title><description><p><em>CHƯƠNG 3</em>
-<strong>VŨ TRỤ TRONG VỎ HẠT DẺ</strong></p>
+&lt;p&gt;Go ahead with &lt;a href="https://wiki.archlinux.org/index.php/Xfce"&gt;XFCE&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #03 - The Universe in a nutshell #03</title><description>&lt;p&gt;&lt;em&gt;CHƯƠNG 3&lt;/em&gt;
+&lt;strong&gt;VŨ TRỤ TRONG VỎ HẠT DẺ&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>I could be bounded in a nutshell
-  And count myself a king of infinitive space...</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;I could be bounded in a nutshell
+  And count myself a king of infinitive space...&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/ls_tg_ao_thuc.png" alt="Lịch sử thời gian ảo và Lịch sử thời gian thực"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/ls_tg_ao_thuc.png" alt="Lịch sử thời gian ảo và Lịch sử thời gian thực"&gt;&lt;/p&gt;
 
-<p><strong><em>Câu chuyện về Feynman</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Câu chuyện về Feynman&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p>Sinh ra tại Brooklyn, New York năm 1918, Richard Feynman bảo vệ tiến sỹ tại đại học Princeton dưới sự hướng dẫn của</p></description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-03-the-universe-in-a-nutshell-03/</link><guid isPermaLink="false">38b91f11-5778-4666-b5ab-4b7793239e2a</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Fri, 17 Apr 2015 07:44:38 GMT</pubDate><content:encoded><p><em>CHƯƠNG 3</em>
-<strong>VŨ TRỤ TRONG VỎ HẠT DẺ</strong></p>
+&lt;p&gt;Sinh ra tại Brooklyn, New York năm 1918, Richard Feynman bảo vệ tiến sỹ tại đại học Princeton dưới sự hướng dẫn của&lt;/p&gt;</description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-03-the-universe-in-a-nutshell-03/</link><guid isPermaLink="false">38b91f11-5778-4666-b5ab-4b7793239e2a</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Fri, 17 Apr 2015 07:44:38 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;CHƯƠNG 3&lt;/em&gt;
+&lt;strong&gt;VŨ TRỤ TRONG VỎ HẠT DẺ&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>I could be bounded in a nutshell
-  And count myself a king of infinitive space...</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;I could be bounded in a nutshell
+  And count myself a king of infinitive space...&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/ls_tg_ao_thuc.png" alt="Lịch sử thời gian ảo và Lịch sử thời gian thực"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/ls_tg_ao_thuc.png" alt="Lịch sử thời gian ảo và Lịch sử thời gian thực"&gt;&lt;/p&gt;
 
-<p><strong><em>Câu chuyện về Feynman</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Câu chuyện về Feynman&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<p>Sinh ra tại Brooklyn, New York năm 1918, Richard Feynman bảo vệ tiến sỹ tại đại học Princeton dưới sự hướng dẫn của John Wheeler vào năm 1942. Ngay sau đó, ông bị lôi kéo và dự án Mahattan. Ở đó, ông nổi tiếng về tính cách cởi mở và hài hước – tại phòng thí nghiệm Los Alamos, ông rất thích phá các hệ thống bảo mật – và để trở thành một nhà vật lý khác thường: ông trở thành người đóng góp chủ yếu cho lý thuyết bom nguyên tử. Thói quen liên tục tìm tòi khám phá của Feynman về thế giới chính là gốc rễ của con người ông. Nó không chỉ là cái máy làm nên các thành công khoa học mà còn dắt ông đến rất nhiều khám phá kỳ thú, ví như giải mã những chữ tượng hình của người Maya.</p>
+&lt;p&gt;Sinh ra tại Brooklyn, New York năm 1918, Richard Feynman bảo vệ tiến sỹ tại đại học Princeton dưới sự hướng dẫn của John Wheeler vào năm 1942. Ngay sau đó, ông bị lôi kéo và dự án Mahattan. Ở đó, ông nổi tiếng về tính cách cởi mở và hài hước – tại phòng thí nghiệm Los Alamos, ông rất thích phá các hệ thống bảo mật – và để trở thành một nhà vật lý khác thường: ông trở thành người đóng góp chủ yếu cho lý thuyết bom nguyên tử. Thói quen liên tục tìm tòi khám phá của Feynman về thế giới chính là gốc rễ của con người ông. Nó không chỉ là cái máy làm nên các thành công khoa học mà còn dắt ông đến rất nhiều khám phá kỳ thú, ví như giải mã những chữ tượng hình của người Maya.&lt;/p&gt;
 
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/1/1a/RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg" alt="Richard Feynman"></p>
+&lt;p&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/1/1a/RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg" alt="Richard Feynman"&gt;&lt;/p&gt;
 
-<p>Vào những năm sau thế chiến hai, Feynman tìm ra một phương pháp mới rất hiệu quả trong việc nhận thức cơ học lượng tử. Và chính điều đó mang giải Nobel năm 1965 đến với ông. Ông thách thức giả thuyết cổ điển cơ bản là mỗi hạt có một lịch sử đặc biệt. Thay vào đó, ông cho rằng các hạt di chuyển từ nơi này đến nơi khác theo tất cả các lộ trình khả dĩ trong không thời gian. Với mỗi lộ trình Feynman liên hệ với hai con số, con số thứ nhất là kích thước – biên độ – của sóng và con số thứ hai là pha – cho biết đó là đỉnh hoặc hõm sóng. Xác suất của một hạt đi từ A đến B cho bởi tổng các sóng liên quan đến lộ trình khả dĩ đi qua A và B.</p>
+&lt;p&gt;Vào những năm sau thế chiến hai, Feynman tìm ra một phương pháp mới rất hiệu quả trong việc nhận thức cơ học lượng tử. Và chính điều đó mang giải Nobel năm 1965 đến với ông. Ông thách thức giả thuyết cổ điển cơ bản là mỗi hạt có một lịch sử đặc biệt. Thay vào đó, ông cho rằng các hạt di chuyển từ nơi này đến nơi khác theo tất cả các lộ trình khả dĩ trong không thời gian. Với mỗi lộ trình Feynman liên hệ với hai con số, con số thứ nhất là kích thước – biên độ – của sóng và con số thứ hai là pha – cho biết đó là đỉnh hoặc hõm sóng. Xác suất của một hạt đi từ A đến B cho bởi tổng các sóng liên quan đến lộ trình khả dĩ đi qua A và B.&lt;/p&gt;
 
-<p>Tuy vậy trong cuộc sống hàng ngày, chúng ta thấy dường như các vật thể đi theo một lộ trình duy nhất từ điểm đầu đến điểm cuối. Điều này phù hợp với ý tưởng đa lịch sử (hoặc tổng theo các lịch sử), vì đối với các vật thể lớn thì qui tắc của ông về gán các con số cho mỗi lộ trình đảm bảo tất cả các lộ trình (trừ một lộ trình duy nhất) phải triệt tiêu lẫn nhau khi đóng góp của chúng được kết hợp lại. Chỉ có một trong số vô hạn các lộ trình có ý nghĩa đối với chuyển động của các vật thể vĩ mô là được xem xét và đó chính là lộ trình có được từ các định luật chuyển động cổ điển của Newton.</p>
+&lt;p&gt;Tuy vậy trong cuộc sống hàng ngày, chúng ta thấy dường như các vật thể đi theo một lộ trình duy nhất từ điểm đầu đến điểm cuối. Điều này phù hợp với ý tưởng đa lịch sử (hoặc tổng theo các lịch sử), vì đối với các vật thể lớn thì qui tắc của ông về gán các con số cho mỗi lộ trình đảm bảo tất cả các lộ trình (trừ một lộ trình duy nhất) phải triệt tiêu lẫn nhau khi đóng góp của chúng được kết hợp lại. Chỉ có một trong số vô hạn các lộ trình có ý nghĩa đối với chuyển động của các vật thể vĩ mô là được xem xét và đó chính là lộ trình có được từ các định luật chuyển động cổ điển của Newton.&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/76IEaP2fBp4" frameborder="0" allowfullscreen></iframe></content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #02 - The Universe in a nutshell #02</title><description><p><em>CHƯƠNG 2</em>
-<strong>HÌNH DẠNG CỦA THỜI GIAN</strong></p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/76IEaP2fBp4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #02 - The Universe in a nutshell #02</title><description>&lt;p&gt;&lt;em&gt;CHƯƠNG 2&lt;/em&gt;
+&lt;strong&gt;HÌNH DẠNG CỦA THỜI GIAN&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Thuyết tương đối rộng của Einstein cho thời gian một hình dạng. Nó có thể tương hợp với thuyết lượng tử như thế nào?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Thuyết tương đối rộng của Einstein cho thời gian một hình dạng. Nó có thể tương hợp với thuyết lượng tử như thế nào?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/Screen-Shot-2015-04-16-at-17-55-08.png" alt="Thời gian hình quả lê"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/Screen-Shot-2015-04-16-at-17-55-08.png" alt="Thời gian hình quả lê"&gt;&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/1mftejhPFRE" frameborder="0" allowfullscreen></iframe></description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-02-the-universe-in-a-nutshell-02/</link><guid isPermaLink="false">d476ed5e-b0a2-4550-ac85-6cf42cb99cd5</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Thu, 16 Apr 2015 11:01:13 GMT</pubDate><content:encoded><p><em>CHƯƠNG 2</em>
-<strong>HÌNH DẠNG CỦA THỜI GIAN</strong></p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/1mftejhPFRE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-02-the-universe-in-a-nutshell-02/</link><guid isPermaLink="false">d476ed5e-b0a2-4550-ac85-6cf42cb99cd5</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Thu, 16 Apr 2015 11:01:13 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;CHƯƠNG 2&lt;/em&gt;
+&lt;strong&gt;HÌNH DẠNG CỦA THỜI GIAN&lt;/strong&gt;&lt;/p&gt;
 
-<blockquote>
-  <p>Thuyết tương đối rộng của Einstein cho thời gian một hình dạng. Nó có thể tương hợp với thuyết lượng tử như thế nào?</p>
-</blockquote>
+&lt;blockquote&gt;
+  &lt;p&gt;Thuyết tương đối rộng của Einstein cho thời gian một hình dạng. Nó có thể tương hợp với thuyết lượng tử như thế nào?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/Screen-Shot-2015-04-16-at-17-55-08.png" alt="Thời gian hình quả lê"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/Screen-Shot-2015-04-16-at-17-55-08.png" alt="Thời gian hình quả lê"&gt;&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/1mftejhPFRE" frameborder="0" allowfullscreen></iframe></content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #01 - The Universe in a nutshell #01</title><description><p><em>"In a nutshell"</em> - "Trong vỏ hạt dẻ" là một thành ngữ trong tiếng Anh hàm ý điều gì đó được giải thích, tóm tắt một cách ngắn gọn (nhất có thể).</p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/1mftejhPFRE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>[Audio Book] Vũ trụ trong vỏ hạt dẻ #01 - The Universe in a nutshell #01</title><description>&lt;p&gt;&lt;em&gt;"In a nutshell"&lt;/em&gt; - "Trong vỏ hạt dẻ" là một thành ngữ trong tiếng Anh hàm ý điều gì đó được giải thích, tóm tắt một cách ngắn gọn (nhất có thể).&lt;/p&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/41QWTK7JNYL.jpg" alt="The Universe in a nutshell"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/41QWTK7JNYL.jpg" alt="The Universe in a nutshell"&gt;&lt;/p&gt;
 
-<p>Tiếp nối thành công vang dội của cuốn <em>"Lược sử thời gian"</em> (<em>A brief history of Time</em> -</p></description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-the-universe-in-a-nutshell/</link><guid isPermaLink="false">7185ed6d-bcf4-4f67-8888-1e1161a74e80</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Wed, 15 Apr 2015 03:10:24 GMT</pubDate><content:encoded><p><em>"In a nutshell"</em> - "Trong vỏ hạt dẻ" là một thành ngữ trong tiếng Anh hàm ý điều gì đó được giải thích, tóm tắt một cách ngắn gọn (nhất có thể).</p>
+&lt;p&gt;Tiếp nối thành công vang dội của cuốn &lt;em&gt;"Lược sử thời gian"&lt;/em&gt; (&lt;em&gt;A brief history of Time&lt;/em&gt; -&lt;/p&gt;</description><link>http://localhost:2368/audio-book-vu-tru-trong-vo-hat-de-the-universe-in-a-nutshell/</link><guid isPermaLink="false">7185ed6d-bcf4-4f67-8888-1e1161a74e80</guid><category>Audio Book</category><dc:creator>Hardy Pham</dc:creator><pubDate>Wed, 15 Apr 2015 03:10:24 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;"In a nutshell"&lt;/em&gt; - "Trong vỏ hạt dẻ" là một thành ngữ trong tiếng Anh hàm ý điều gì đó được giải thích, tóm tắt một cách ngắn gọn (nhất có thể).&lt;/p&gt;
 
-<p><img src="http://localhost:2368/content/images/2015/04/41QWTK7JNYL.jpg" alt="The Universe in a nutshell"></p>
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/04/41QWTK7JNYL.jpg" alt="The Universe in a nutshell"&gt;&lt;/p&gt;
 
-<p>Tiếp nối thành công vang dội của cuốn <em>"Lược sử thời gian"</em> (<em>A brief history of Time</em> - xuất bản năm 1988), Stephen Hawking cho ra đời cuốn <em>"Vũ trụ trong vỏ hạt dẻ"</em> (<em>The Universe in a nutshell</em> - xuất bản 2002), cũng là một cuốn sách thuộc lĩnh vực vật lý lý thuyết, với một cách tiếp cận khác.</p>
+&lt;p&gt;Tiếp nối thành công vang dội của cuốn &lt;em&gt;"Lược sử thời gian"&lt;/em&gt; (&lt;em&gt;A brief history of Time&lt;/em&gt; - xuất bản năm 1988), Stephen Hawking cho ra đời cuốn &lt;em&gt;"Vũ trụ trong vỏ hạt dẻ"&lt;/em&gt; (&lt;em&gt;The Universe in a nutshell&lt;/em&gt; - xuất bản 2002), cũng là một cuốn sách thuộc lĩnh vực vật lý lý thuyết, với một cách tiếp cận khác.&lt;/p&gt;
 
-<p>Giống như nhiều người trong cộng đồng các nhà vật lý lý thuyết, Giáo sư Hawking Stephen Hawking đang tìm kiếm để khám phá cái cốt lõi của khoa học – Thuyết vạn vật nằm trong tâm của vũ trụ. Ông dẫn dắt chúng ta trong nỗ lực phát hiện ra bí mật của nó, từ <a href="http://en.wikipedia.org/wiki/Supergravity">siêu trọng lực</a> đến <a href="http://en.wikipedia.org/wiki/Supersymmetry">siêu đối xứng</a>, từ <a href="http://en.wikipedia.org/wiki/Quantum_theory">lý thuyết lượng tử</a> đến <a href="http://en.wikipedia.org/wiki/M-theory">lý thuyết M</a>, từ giao thoa tới đối ngẫu, và giờ đây, tại các vùng biên giới hoang dã của khoa học, <a href="http://en.wikipedia.org/wiki/Superstring_theory">lý thuyết siêu dây</a> và <a href="http://www.superstringtheory.com/basics/basic7a.html">p-brane</a>. Ông chia sẻ niềm say mê của mình khi tìm cách "kết hợp Thuyết tương đối tổng quát của Einstein với ý tưởng về những lịch sử đa dạng của Feynman vào trong một thuyết thống nhất hoàn chỉnh, một thuyết sẽ giải thích mọi thứ xảy ra trong vũ trụ."</p>
+&lt;p&gt;Giống như nhiều người trong cộng đồng các nhà vật lý lý thuyết, Giáo sư Hawking Stephen Hawking đang tìm kiếm để khám phá cái cốt lõi của khoa học – Thuyết vạn vật nằm trong tâm của vũ trụ. Ông dẫn dắt chúng ta trong nỗ lực phát hiện ra bí mật của nó, từ &lt;a href="http://en.wikipedia.org/wiki/Supergravity"&gt;siêu trọng lực&lt;/a&gt; đến &lt;a href="http://en.wikipedia.org/wiki/Supersymmetry"&gt;siêu đối xứng&lt;/a&gt;, từ &lt;a href="http://en.wikipedia.org/wiki/Quantum_theory"&gt;lý thuyết lượng tử&lt;/a&gt; đến &lt;a href="http://en.wikipedia.org/wiki/M-theory"&gt;lý thuyết M&lt;/a&gt;, từ giao thoa tới đối ngẫu, và giờ đây, tại các vùng biên giới hoang dã của khoa học, &lt;a href="http://en.wikipedia.org/wiki/Superstring_theory"&gt;lý thuyết siêu dây&lt;/a&gt; và &lt;a href="http://www.superstringtheory.com/basics/basic7a.html"&gt;p-brane&lt;/a&gt;. Ông chia sẻ niềm say mê của mình khi tìm cách "kết hợp Thuyết tương đối tổng quát của Einstein với ý tưởng về những lịch sử đa dạng của Feynman vào trong một thuyết thống nhất hoàn chỉnh, một thuyết sẽ giải thích mọi thứ xảy ra trong vũ trụ."&lt;/p&gt;
 
-<p>Với cách viết dí dỏm, thân thiện và gãy gọn, Hawking đưa chúng ta vào chuyến du hành đặc biệt này thông qua không-thời gian. Cuốn sách dành cho những người muốn tìm hiểu về vũ trụ ta đang sống.</p>
+&lt;p&gt;Với cách viết dí dỏm, thân thiện và gãy gọn, Hawking đưa chúng ta vào chuyến du hành đặc biệt này thông qua không-thời gian. Cuốn sách dành cho những người muốn tìm hiểu về vũ trụ ta đang sống.&lt;/p&gt;
 
-<p><mark>_HP</mark> trích đọc từng phần cuốn sách, các chú giải và hình minh họa mọi người có thể tìm mua bản in để hiểu rõ hơn.</p>
+&lt;p&gt;&lt;mark&gt;_HP&lt;/mark&gt; trích đọc từng phần cuốn sách, các chú giải và hình minh họa mọi người có thể tìm mua bản in để hiểu rõ hơn.&lt;/p&gt;
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/tdA5ERPECAU" frameborder="0" allowfullscreen></iframe></content:encoded></item><item><title>Norway Chess 2014 Classic Round 3</title><description><p>Mời các bạn theo dõi ván đấu của ĐKVĐ Thế giới Magnus Carlsen với GM Fabiano Caruana trong khuôn khổ giải vô địch cờ vua tổ chức tại Na Uy. Phần bình luận của IM Nguyễn Văn Hải.</p>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/tdA5ERPECAU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>Norway Chess 2014 Classic Round 3</title><description>&lt;p&gt;Mời các bạn theo dõi ván đấu của ĐKVĐ Thế giới Magnus Carlsen với GM Fabiano Caruana trong khuôn khổ giải vô địch cờ vua tổ chức tại Na Uy. Phần bình luận của IM Nguyễn Văn Hải.&lt;/p&gt;
 
-<p>Nguồn: <a href="http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html">http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html</a></p>
+&lt;p&gt;Nguồn: &lt;a href="http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html"&gt;http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html&lt;/a&gt;&lt;/p&gt;
 
-<p><div class="chessboard-wrapper"><textarea cols="40" id="pgn4web_2b9c4a93" rows="8" style="display:none;"> [Event "Norway Chess</textarea></div></p></description><link>http://localhost:2368/norway-chess-2014-classic-round-3/</link><guid isPermaLink="false">521daa72-dbc4-40ed-9206-072b9fd445e0</guid><category>Chess</category><category>Fabiano Caruana</category><category>Magnus Carlsen</category><category>Norway Chess</category><dc:creator>Hardy Pham</dc:creator><pubDate>Tue, 10 Jun 2014 11:10:47 GMT</pubDate><media:content url="http://kozyice.hp/wp-content/uploads/2014/06/DSC_0154-437x278.jpg" medium="image"/><content:encoded><img src="http://kozyice.hp/wp-content/uploads/2014/06/DSC_0154-437x278.jpg" alt="Norway Chess 2014 Classic Round 3"><p>Mời các bạn theo dõi ván đấu của ĐKVĐ Thế giới Magnus Carlsen với GM Fabiano Caruana trong khuôn khổ giải vô địch cờ vua tổ chức tại Na Uy. Phần bình luận của IM Nguyễn Văn Hải.</p>
+&lt;p&gt;&lt;div class="chessboard-wrapper"&gt;&lt;textarea cols="40" id="pgn4web_2b9c4a93" rows="8" style="display:none;"&gt; [Event "Norway Chess&lt;/textarea&gt;&lt;/div&gt;&lt;/p&gt;</description><link>http://localhost:2368/norway-chess-2014-classic-round-3/</link><guid isPermaLink="false">521daa72-dbc4-40ed-9206-072b9fd445e0</guid><category>Chess</category><category>Fabiano Caruana</category><category>Magnus Carlsen</category><category>Norway Chess</category><dc:creator>Hardy Pham</dc:creator><pubDate>Tue, 10 Jun 2014 11:10:47 GMT</pubDate><media:content url="http://kozyice.hp/wp-content/uploads/2014/06/DSC_0154-437x278.jpg" medium="image"/><content:encoded>&lt;img src="http://kozyice.hp/wp-content/uploads/2014/06/DSC_0154-437x278.jpg" alt="Norway Chess 2014 Classic Round 3"&gt;&lt;p&gt;Mời các bạn theo dõi ván đấu của ĐKVĐ Thế giới Magnus Carlsen với GM Fabiano Caruana trong khuôn khổ giải vô địch cờ vua tổ chức tại Na Uy. Phần bình luận của IM Nguyễn Văn Hải.&lt;/p&gt;
 
-<p>Nguồn: <a href="http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html">http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html</a></p>
+&lt;p&gt;Nguồn: &lt;a href="http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html"&gt;http://haigiong.blogspot.com/2014/06/norway-chess-2014-classic.html&lt;/a&gt;&lt;/p&gt;
 
-<p><div class="chessboard-wrapper"><textarea cols="40" id="pgn4web_2b9c4a93" rows="8" style="display:none;"> [Event "Norway Chess Classic 2014"] [Date "2014.06.05"] [Round "3.4"] [White "Carlsen, Magnus (2881)"] [Black "Caruana, Fabiano (2791)"] [Result "1/2-1/2"] 1. d4 Nf6 2. c4 g6 3. f3 {Trong ván cờ Carlsen lựa chọn cho mình biến nhánh 3.f3 trong khai cuộc Grunfeld. Hiện nay cũng có rất nhiều Đại kiện tướng áp dụng biến 3.f3 trên thực tế. Với những bạn đang học về chủ đề khai cuộc thì nên nghiên cứu sâu vào bài học đầu tiên về khai cuộc là khai thác sâu hơn vào biến chính thống như: 3. Nc3 d5 } 3... d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2 {Với nước đi này ý đồ chơi của bên trắng là khá rõ, trắng chuẩn bị đưa vua trắng vào vị trí an toàn ở bên cánh Hậu bằng cách nhập thành dài. Hơn nữa nước Hd2 sẽ hộ trợ cho nước tượng “h6” để đổi lấy tượng “fianchetto” của bên đen.} 8...Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. Kb1 {Nước đi cần thiết. Trong thế trận nhập thành trái chiều như trong ván, nước đi có ý nghĩa tư duy dự phòng, tạm thời đưa vua vào vị trí an toàn. Sau đây là các ván cờ của các Đại kiện tướng, các bạn có thể tham khảo:} (11. Bh6 Bxh6 12. Qxh6 a6 13. Nc3 Nxd4 14. f4 f6 15. Nf3 e5 16. fxe5 fxe5 17. Nxe5 Qd6 18. Nf3 c5 19. Ng5 Qe7 20. Nd5 Nxd5 21. Bc4 Kh8 22. exd5 Qg7 23. Qxg7+ Kxg7 24. d6 Bf5 25. b4 b6 26. Rhe1 Rfe8 27. Re7+ Rxe7 28. dxe7 Re8 29. bxc5 bxc5 30. Re1 Nc2 31. Re2 Nd4 32. Re3 Nc2 33. Re2 Nd4 34. Re3 Nc2 35. Re2 {( 1/2-1/2 Svidler, P-Caruana, F/Thessaloniki 2013)}) (11. f4 Qe6 12. Nc3 Rd8 13. Nf3 Nc4 14. Qe2 Nxe3 15. Qxe3 Nb4 16. b3 Qb6 17. a3 Nc6 18. Na4 Qa5 19. d5 Nb8 20. Qc5 Qxc5+ 21. Nxc5 c6 22. Bc4 b6 23. dxc6 Rxd1+ 24. Rxd1 Nxc6 25. Bd5 Bg4 26. Bxc6 Rc8 27. Kb1 bxc5 28. Bd5 Bxf3 29. gxf3 Bh6 30. f5 gxf5 {( 1/2-1/2 Mamedyarov, S-Negi, P/Gibraltar Master 10th/2012)}) 11... Rd8 12. d5 a6 13. Nc3 {Trắng không có ưu thế khi có sự trao đổi quân ngay từ khá sớm. Ví dụ sau đây là ván cờ của Đại kiện tướng người Philippines So,Wesley đã đổi quân hàng loạt ở các nước đi tiếp theo nhưng thế cờ chỉ diễn ra ở thế cờ cân bằng.} (13. dxc6 Qxd2 14. Rxd2 Rxd2 15. Bxd2 axb5 16. cxb7 Bxb7 17. Bxb5 f5 18. exf5 Bd5 19. Ne2 Bxa2+ 20. Kc2 gxf5 21. b3 c5 22. Be3 c4 23. Bxb6 Bxb3+ 24. Kd2 Rb8 25. Rb1 e6 26. Ke3 Ba2 27. Rc1 Rxb6 28. Bxc4 Bxc4 29. Rxc4 Be5 30. h3 Rb3+ {( 1/2-1/2 So,W-Lou,Y/Ho Chi Minh City 2012)}) 13... Qe8 14. Qc1 (14. Qe1 Ne5 15. Be2 e6 16. Bxb6 cxb6 17. f4 Nd7 18. dxe6 Qxe6 19. Nf3 Qe8 20. Qh4 Bf6 21. Ng5 Nf8 22. Bc4 Kg7 23. Qg3 Bxg5 24. fxg5 Be6 25. Nd5 Bxd5 26. Bxd5 Rd7 27. h4 Rc8 28. a3 Qd8 29. Qf2 Ne6 30. Ka2 Qe7 31. Rhf1 b5 32. Rd3 Rcc7 33. Kb1 a5 34. g4 a4 35. Rf3 Qd6 36. Rf6 Qc5 37. Qg3 b4 38. axb4 Qc2+ 39. Ka1 a3 40. bxa3 Rxd5 41. exd5 Nd4 42. Rxf7+ Rxf7 43. Qe5+ Kf8 44. Qb8+ Kg7 45. Rxf7+ Kxf7 46. Qxb7+ Ke8 47. Qb8+ Kd7 48. Qa7+ Kd6 49. Qxd4 Qc1+ 50. Ka2 Qc2+ 51. Qb2 Qc4+ 52. Ka1 Qxg4 53. Qf2 Kxd5 54. Qc5+ {(1–0 Aronian, L-Caruana, F/Moscow Tal Memories 7th/2012)}) 14... Na5 { Hầu hết, nhiều quan điểm cho rằng về việc tích cực quân mã, trường hợp đưa Mã ra biên là rất tồi. Theo tôi, tôi cũng đồng ý theo quan điểm 1 phần, phần còn lại là phải dựa vào thế cờ thực tế trên bàn cờ, nếu đưa mã ra biên mà có ích thì nên suy xét một cách thật chính xác. } 15. Bh6 { Kế hoạch của bên trắng là khá rõ, đổi tượng màu ô đen và tiếp tục tấn công vào bên cánh vua. } 15... Bxh6 16. Qxh6 e6 17. Nh3 { Các bạn đang tự hỏi: Hình như các Đại kiện tướng thuộc dạng “top” đầu này không biết chơi cờ thì phải. Lần lượt trong ván cờ, đã chứng kiến thấy 2 lần họ phát triển quân mã ra biên. Đầu tiên là Caruana chơi Ma5, sau đó đến Carlsen chơi Mh3. Không phải họ không biết chơi cờ đâu, họ chơi theo ý tưởng của họ đấy. Với nước Mh3, Carlsen đe dọa Mg5 hoặc có thể đưa mã về f2-d3, mà hoàn toàn 2 mã trắng không bị dẫm chân nhau. } (17. h4 Qf8 18. Qf4 Qe7) 17... Qe7 18. Bd3 { Hoàn toàn không có nguy hiểm gì cho bên đen. } (18. Ng5 f6) 18... e5 19. Nf2 Nbc4 20. h4 Rd6 21. Bxc4 { Đây là nước đi tự mình đóng cửa đốt nhà. Hậu của trắng đã nằm trong cũi và bị xe đen bắt chết. } (21. h5?? g5) 21... Nxc4 22. Qc1 b5 {Đen chưa có đủ lực lượng để tấn công cánh hậu. Không có gì đáng nguy hiểm. } (22... Rb6 23. Nd3) 23. Nd3 Bd7 24. b3 Nb6 25. h5 {Tốt hơn trắng nên phá trung tấm sớm hơn. Sau đó kế hoạch đổi hậu nhanh chóng đưa về cờ tàn, ô c5 sau đó sẽ là vị trí tuyệt vời giành cho mã trắng. } (25. f4 f6 26. fxe5 fxe5 27. Qg5 Re8) 25... g5! {Một trong những nguyên tắc trong tấn công vua khi nhập thành trái chiều là ai tấn công nhanh hơn người ấy sẽ giành chiến thắng. Sau nước g5 này, cuộc tấn công của bên trắng bên cánh vua gần như bế tắc không có cột nào được mở. Caruana đã có nước cờ phản xạ cực kì chính xác, đóng cánh vua lại ngay lập tức. } 26. g3 c6 27. f4 cxd5 28. Nxe5 { Tấn công ở 2 cánh gần như là bế tắc. Đương nhiên cuộc tấn sẽ phải nổ ra ở trung tâm. Đòi hỏi cả 2 Đại kiện tướng cần phải có cách giải quyết vấn đề ở trung tâm thật hợp lý. Có rất nhiều biến cần phải tính toán và phải thật chính xác. } (28. fxe5 Rc6 29. Qd2 Be6 30. h6 Rac8 31. Rc1 b4) (28. exd5 Rc8 29. fxe5 Rxd5 30. Qd2 Rxe5 31. Nxe5 Qxe5) (28. Qa3 exf4 29. gxf4 Rc8 30. e5 Re6 31. Qxe7 Rxe7 32. Kb2 gxf4) 28... d4! {[pgndiagram]Sau nước đi này, thì bên đen sẽ có ưu thế. Ngay trực tiếp lúc này thì tốt “e4” của trắng đang bị đe dọa có thể bị mất bất cứ lúc nào. } 29. Qa3 (29. Nd5 Nxd5 30. exd5 Bf5+ 31. Ka1 Rxd5) (29. Ne2 Bc6) 29... a5 30. Nxb5 {Đen có chút ưu thế nhỏ.} (30. Nd5 Nxd5 31. exd5 b4 32. Qb2 Rxd5) 30... Bxb5 31. Rxd4 Re6 {[pgndiagram]Caruana chọn cho mình hướng giải quyết quá an toàn đổi hậu. Nhưng nếu dũng cảm hơn thì cần phải giữ lại hậu và tiếp tục tấn công. } (31... Rad8 32. Rhd1 Nc8 33. Rxd6 Rxd6 34. Rc1 Ba6) 32. Qxe7 Rxe7 33. Rc1 Nd7 34. Rc7 Nxe5? { Caruana đã bỏ lỡ mất cơ hội chiến thắng. Nước đi ăn mã quá vội vàng. Trong ván cờ, ở giai đoạn trung cuộc phần giải quyết trung tâm đã làm Caruana mệt rồi chăng? Nếu nước đi này là một phần trong giai đoạn tính toán đơn giản, nếu nhẹ nhàng hơn Caruana ăn tốt trước thì sẽ không còn cơ hội để cho Carlsen có thể gỡ hòa được thế cờ. } (34... gxf4 35. Nxd7 f3 36. Nf6+ Kg7 37. Rxe7 f2) (34... gxf4 35. gxf4 Nxe5 36. Rxe7 Nc6 37. Rd5 Nxe7 38. Rxb5) 35. Rxe7 Nc6 36. Rd5 Bd3+ 37. Rxd3 Nxe7 38. fxg5 {[pgndiagram]Xuất hiện thế cờ xe+mã chống lại xe + 3 tốt, đương nhiên bên xe + mã có chút ưu thế hơn vì thế cờ còn nhiều tốt trên bàn cờ. Nhưng muốn thắng được thì quả thực là một điều khó khăn. Đối với kế hoạch bên đen là cần phải chiến thắng nhưng giải quyết vấn đề một cách thật khéo léo. Còn bên trắng sẽ phải cố gắng thủ hòa. Trong ván đấu, Carlsen thi đấu rất nỗ lực và thủ hòa thành công ván cờ. Các bạn đang tò mò ván cờ vì sao lại kết thúc hòa phải không? Mời các bạn xem tiếp kĩ thuật cờ tàn mà Carlsen vận dụng chuẩn xác đến thế nào nhé. } 38... Rb8 { Trong cờ tàn nguyên tắc đầu tiên là phải tích cực quân. Caruana muốn đưa xe lên “b5” vừa giữ tốt “a5” và tấn công tốt “g5”. } 39. Rd7 Kf8 40. Ra7 { Carlsen tích cực xe là nhiệm vụ cần phải được đặt lên mục tiêu hàng đầu. } 40... Rb5 41. Ra8+ Kg7 42. Re8 (42. Ra6 Rc5 43. h6+ Kf8 44. Ra8+ Nc8 45. Rb8 Ke8 46. Kb2 Kd8 47. Rb7 Ne7 48. Rb8+ Kd7 49. Rh8 Rxg5 50. Rxh7 Ke6 51. Rh8 Rxg3 52. Ra8 Rh3) 42... Re5 { Máy tính chỉ ra nước tốt nhất là nước Mc6, nhưng Caruana không nhìn thấy. Sau một loạt nước đi tiếp theo của biến Mc6 thì máy tính đánh giá đen sẽ giành chiến thắng. } (42... Nc6 43. h6+ Kg6 44. Rg8+ Kh5 45. Rg7 Ne5 46. Rxh7 Kxg5 47. Rh8 Ng6 48. Rh7 Kf6 49. Rg7 Rh5 50. Rg8 Rxh6 51. Ra8 Rh5) 43. g4 Rxe4 44. Kc2 {Trong lúc xe đen đang bị giằng, Carlsen nhanh chóng đưa vua vào cuộc chiến. Tích cực vua cũng là một nguyên tắc quan trọng không kém gì nguyên tắc tích cực quân trong cờ tàn. } 44... Re5 45. Kd3 f6 (45... h6 46. gxh6+ Kxh6 47. Kc4) 46. gxf6+ Kxf6 47. Rh8 Kg7 48. Re8 { Carlsen lặp lại nước đi của mình và sẵn sàng đồng ý hòa cờ. } 48... Kh6 { Không đồng ý chấp nhận một kết quả hòa, Caruana chọn cho mình phương án tốt hơn để đánh tiếp. } 49. a3 Kg5 50. Rh8 h6 51. Rh7 Re6 52. Rg7+ Kf6 53. Rh7 { Lại một lần nữa Carlsen “ngầm” muốn như đề nghị hòa vì thế cờ hiện tại bên trắng chỉ có thể hòa trở xuống. } 53... Ke5 54. Rg7 Kf4 55. b4 { Nước đi rất kịp thời và hợp lý đến từ Carlsen. Nhanh chóng tạo tốt thông buộc bên phải lui về phòng thủ và không có đủ thời gian để đẩy tốt thông “h”. } 55... axb4 56. axb4 Nc6 57. b5 Ne5+ 58. Kd4 Nxg4 59. Kc5! (59. Rg6 Re4+ 60. Kc5 Re5+! 61. Kb4 Rxh5 62. b6 Rh1 63. Kc5 Rb1) 59... Re5+ 60. Kc6 Rxh5 61. b6 Ne5+ 62. Kc7 Nc4 (62... Rh1 63. b7 Rc1+ 64. Kd6 Rc6+ 65. Kd5 Rb6 66. Rh7 Ng4 67. Kc5 Rb1 68. Kc6 Ne5+ 69. Kd5=) (62... Nd3 63. Rg1 Rc5+) 63. b7 Rc5+ 64. Kd8 Rb5 65. Kc7 Rc5+ 66. Kd8 Rb5 67. Kc7 Ke5 1/2-1/2 </textarea><iframe frameborder="0" height="444" marginheight="0" marginwidth="0" scrolling="no" src="http://kozyice.hp/wp-content/plugins/embed-chessboard/pgn4web/board.html?am=n&amp;d=3000&amp;ig=f&amp;iv=0&amp;ih=s&amp;ss=26&amp;ps=d&amp;pf=d&amp;lch=F6F6F6&amp;dch=22B322&amp;bbch=E0E0E0&amp;hm=b&amp;hch=E82020&amp;bd=c&amp;cbch=F0F0F0&amp;ctch=696969&amp;hd=j&amp;md=f&amp;tm=13&amp;fhch=000000&amp;fhs=14&amp;fmch=177817&amp;fcch=363636&amp;hmch=9FE0D7&amp;fms=14&amp;fcs=m&amp;cd=i&amp;bch=FFFFFF&amp;fp=13&amp;hl=t&amp;fh=444&amp;fw=p&amp;pi=pgn4web_2b9c4a93" width="100%">your web browser and/or your host do not support iframes as required to display the chessboard; alternatively your wordpress theme might suppress the html iframe tag from articles or excerpts</iframe></div>Phải nói rằng, giai đoạn khai cuộc và giai đoạn trung cuộc Caruana đánh rất hay về thế trận và khâu giải quyết khu trung tâm một cách thật hợp lý, đã tạo ra được ưu thế nhỏ về giai đoạn tàn cuộc, cũng có chút tiếc nuối dành cho Caruana. Nhưng cũng phải đáng khen hơn là Carlsen đã gỡ hòa được một thế cờ yếu hơn với kỹ thuật cờ tàn siêu đỉnh của mình với chiến lược thật vời từ các nguyên tắc như: Tích cực quân, tích cực vua và tạo tốt thông. Một kết quả hòa xứng đáng dành cho Đại kiện tướng trẻ!</p></content:encoded></item><item><title>[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 12</title><description><p>[Audio Books Youtube] Đại chiến hacker (Little Brother – Cory Doctorow) Chương 12:</p>
+&lt;p&gt;&lt;div class="chessboard-wrapper"&gt;&lt;textarea cols="40" id="pgn4web_2b9c4a93" rows="8" style="display:none;"&gt; [Event "Norway Chess Classic 2014"] [Date "2014.06.05"] [Round "3.4"] [White "Carlsen, Magnus (2881)"] [Black "Caruana, Fabiano (2791)"] [Result "1/2-1/2"] 1. d4 Nf6 2. c4 g6 3. f3 {Trong ván cờ Carlsen lựa chọn cho mình biến nhánh 3.f3 trong khai cuộc Grunfeld. Hiện nay cũng có rất nhiều Đại kiện tướng áp dụng biến 3.f3 trên thực tế. Với những bạn đang học về chủ đề khai cuộc thì nên nghiên cứu sâu vào bài học đầu tiên về khai cuộc là khai thác sâu hơn vào biến chính thống như: 3. Nc3 d5 } 3... d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2 {Với nước đi này ý đồ chơi của bên trắng là khá rõ, trắng chuẩn bị đưa vua trắng vào vị trí an toàn ở bên cánh Hậu bằng cách nhập thành dài. Hơn nữa nước Hd2 sẽ hộ trợ cho nước tượng “h6” để đổi lấy tượng “fianchetto” của bên đen.} 8...Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. Kb1 {Nước đi cần thiết. Trong thế trận nhập thành trái chiều như trong ván, nước đi có ý nghĩa tư duy dự phòng, tạm thời đưa vua vào vị trí an toàn. Sau đây là các ván cờ của các Đại kiện tướng, các bạn có thể tham khảo:} (11. Bh6 Bxh6 12. Qxh6 a6 13. Nc3 Nxd4 14. f4 f6 15. Nf3 e5 16. fxe5 fxe5 17. Nxe5 Qd6 18. Nf3 c5 19. Ng5 Qe7 20. Nd5 Nxd5 21. Bc4 Kh8 22. exd5 Qg7 23. Qxg7+ Kxg7 24. d6 Bf5 25. b4 b6 26. Rhe1 Rfe8 27. Re7+ Rxe7 28. dxe7 Re8 29. bxc5 bxc5 30. Re1 Nc2 31. Re2 Nd4 32. Re3 Nc2 33. Re2 Nd4 34. Re3 Nc2 35. Re2 {( 1/2-1/2 Svidler, P-Caruana, F/Thessaloniki 2013)}) (11. f4 Qe6 12. Nc3 Rd8 13. Nf3 Nc4 14. Qe2 Nxe3 15. Qxe3 Nb4 16. b3 Qb6 17. a3 Nc6 18. Na4 Qa5 19. d5 Nb8 20. Qc5 Qxc5+ 21. Nxc5 c6 22. Bc4 b6 23. dxc6 Rxd1+ 24. Rxd1 Nxc6 25. Bd5 Bg4 26. Bxc6 Rc8 27. Kb1 bxc5 28. Bd5 Bxf3 29. gxf3 Bh6 30. f5 gxf5 {( 1/2-1/2 Mamedyarov, S-Negi, P/Gibraltar Master 10th/2012)}) 11... Rd8 12. d5 a6 13. Nc3 {Trắng không có ưu thế khi có sự trao đổi quân ngay từ khá sớm. Ví dụ sau đây là ván cờ của Đại kiện tướng người Philippines So,Wesley đã đổi quân hàng loạt ở các nước đi tiếp theo nhưng thế cờ chỉ diễn ra ở thế cờ cân bằng.} (13. dxc6 Qxd2 14. Rxd2 Rxd2 15. Bxd2 axb5 16. cxb7 Bxb7 17. Bxb5 f5 18. exf5 Bd5 19. Ne2 Bxa2+ 20. Kc2 gxf5 21. b3 c5 22. Be3 c4 23. Bxb6 Bxb3+ 24. Kd2 Rb8 25. Rb1 e6 26. Ke3 Ba2 27. Rc1 Rxb6 28. Bxc4 Bxc4 29. Rxc4 Be5 30. h3 Rb3+ {( 1/2-1/2 So,W-Lou,Y/Ho Chi Minh City 2012)}) 13... Qe8 14. Qc1 (14. Qe1 Ne5 15. Be2 e6 16. Bxb6 cxb6 17. f4 Nd7 18. dxe6 Qxe6 19. Nf3 Qe8 20. Qh4 Bf6 21. Ng5 Nf8 22. Bc4 Kg7 23. Qg3 Bxg5 24. fxg5 Be6 25. Nd5 Bxd5 26. Bxd5 Rd7 27. h4 Rc8 28. a3 Qd8 29. Qf2 Ne6 30. Ka2 Qe7 31. Rhf1 b5 32. Rd3 Rcc7 33. Kb1 a5 34. g4 a4 35. Rf3 Qd6 36. Rf6 Qc5 37. Qg3 b4 38. axb4 Qc2+ 39. Ka1 a3 40. bxa3 Rxd5 41. exd5 Nd4 42. Rxf7+ Rxf7 43. Qe5+ Kf8 44. Qb8+ Kg7 45. Rxf7+ Kxf7 46. Qxb7+ Ke8 47. Qb8+ Kd7 48. Qa7+ Kd6 49. Qxd4 Qc1+ 50. Ka2 Qc2+ 51. Qb2 Qc4+ 52. Ka1 Qxg4 53. Qf2 Kxd5 54. Qc5+ {(1–0 Aronian, L-Caruana, F/Moscow Tal Memories 7th/2012)}) 14... Na5 { Hầu hết, nhiều quan điểm cho rằng về việc tích cực quân mã, trường hợp đưa Mã ra biên là rất tồi. Theo tôi, tôi cũng đồng ý theo quan điểm 1 phần, phần còn lại là phải dựa vào thế cờ thực tế trên bàn cờ, nếu đưa mã ra biên mà có ích thì nên suy xét một cách thật chính xác. } 15. Bh6 { Kế hoạch của bên trắng là khá rõ, đổi tượng màu ô đen và tiếp tục tấn công vào bên cánh vua. } 15... Bxh6 16. Qxh6 e6 17. Nh3 { Các bạn đang tự hỏi: Hình như các Đại kiện tướng thuộc dạng “top” đầu này không biết chơi cờ thì phải. Lần lượt trong ván cờ, đã chứng kiến thấy 2 lần họ phát triển quân mã ra biên. Đầu tiên là Caruana chơi Ma5, sau đó đến Carlsen chơi Mh3. Không phải họ không biết chơi cờ đâu, họ chơi theo ý tưởng của họ đấy. Với nước Mh3, Carlsen đe dọa Mg5 hoặc có thể đưa mã về f2-d3, mà hoàn toàn 2 mã trắng không bị dẫm chân nhau. } (17. h4 Qf8 18. Qf4 Qe7) 17... Qe7 18. Bd3 { Hoàn toàn không có nguy hiểm gì cho bên đen. } (18. Ng5 f6) 18... e5 19. Nf2 Nbc4 20. h4 Rd6 21. Bxc4 { Đây là nước đi tự mình đóng cửa đốt nhà. Hậu của trắng đã nằm trong cũi và bị xe đen bắt chết. } (21. h5?? g5) 21... Nxc4 22. Qc1 b5 {Đen chưa có đủ lực lượng để tấn công cánh hậu. Không có gì đáng nguy hiểm. } (22... Rb6 23. Nd3) 23. Nd3 Bd7 24. b3 Nb6 25. h5 {Tốt hơn trắng nên phá trung tấm sớm hơn. Sau đó kế hoạch đổi hậu nhanh chóng đưa về cờ tàn, ô c5 sau đó sẽ là vị trí tuyệt vời giành cho mã trắng. } (25. f4 f6 26. fxe5 fxe5 27. Qg5 Re8) 25... g5! {Một trong những nguyên tắc trong tấn công vua khi nhập thành trái chiều là ai tấn công nhanh hơn người ấy sẽ giành chiến thắng. Sau nước g5 này, cuộc tấn công của bên trắng bên cánh vua gần như bế tắc không có cột nào được mở. Caruana đã có nước cờ phản xạ cực kì chính xác, đóng cánh vua lại ngay lập tức. } 26. g3 c6 27. f4 cxd5 28. Nxe5 { Tấn công ở 2 cánh gần như là bế tắc. Đương nhiên cuộc tấn sẽ phải nổ ra ở trung tâm. Đòi hỏi cả 2 Đại kiện tướng cần phải có cách giải quyết vấn đề ở trung tâm thật hợp lý. Có rất nhiều biến cần phải tính toán và phải thật chính xác. } (28. fxe5 Rc6 29. Qd2 Be6 30. h6 Rac8 31. Rc1 b4) (28. exd5 Rc8 29. fxe5 Rxd5 30. Qd2 Rxe5 31. Nxe5 Qxe5) (28. Qa3 exf4 29. gxf4 Rc8 30. e5 Re6 31. Qxe7 Rxe7 32. Kb2 gxf4) 28... d4! {[pgndiagram]Sau nước đi này, thì bên đen sẽ có ưu thế. Ngay trực tiếp lúc này thì tốt “e4” của trắng đang bị đe dọa có thể bị mất bất cứ lúc nào. } 29. Qa3 (29. Nd5 Nxd5 30. exd5 Bf5+ 31. Ka1 Rxd5) (29. Ne2 Bc6) 29... a5 30. Nxb5 {Đen có chút ưu thế nhỏ.} (30. Nd5 Nxd5 31. exd5 b4 32. Qb2 Rxd5) 30... Bxb5 31. Rxd4 Re6 {[pgndiagram]Caruana chọn cho mình hướng giải quyết quá an toàn đổi hậu. Nhưng nếu dũng cảm hơn thì cần phải giữ lại hậu và tiếp tục tấn công. } (31... Rad8 32. Rhd1 Nc8 33. Rxd6 Rxd6 34. Rc1 Ba6) 32. Qxe7 Rxe7 33. Rc1 Nd7 34. Rc7 Nxe5? { Caruana đã bỏ lỡ mất cơ hội chiến thắng. Nước đi ăn mã quá vội vàng. Trong ván cờ, ở giai đoạn trung cuộc phần giải quyết trung tâm đã làm Caruana mệt rồi chăng? Nếu nước đi này là một phần trong giai đoạn tính toán đơn giản, nếu nhẹ nhàng hơn Caruana ăn tốt trước thì sẽ không còn cơ hội để cho Carlsen có thể gỡ hòa được thế cờ. } (34... gxf4 35. Nxd7 f3 36. Nf6+ Kg7 37. Rxe7 f2) (34... gxf4 35. gxf4 Nxe5 36. Rxe7 Nc6 37. Rd5 Nxe7 38. Rxb5) 35. Rxe7 Nc6 36. Rd5 Bd3+ 37. Rxd3 Nxe7 38. fxg5 {[pgndiagram]Xuất hiện thế cờ xe+mã chống lại xe + 3 tốt, đương nhiên bên xe + mã có chút ưu thế hơn vì thế cờ còn nhiều tốt trên bàn cờ. Nhưng muốn thắng được thì quả thực là một điều khó khăn. Đối với kế hoạch bên đen là cần phải chiến thắng nhưng giải quyết vấn đề một cách thật khéo léo. Còn bên trắng sẽ phải cố gắng thủ hòa. Trong ván đấu, Carlsen thi đấu rất nỗ lực và thủ hòa thành công ván cờ. Các bạn đang tò mò ván cờ vì sao lại kết thúc hòa phải không? Mời các bạn xem tiếp kĩ thuật cờ tàn mà Carlsen vận dụng chuẩn xác đến thế nào nhé. } 38... Rb8 { Trong cờ tàn nguyên tắc đầu tiên là phải tích cực quân. Caruana muốn đưa xe lên “b5” vừa giữ tốt “a5” và tấn công tốt “g5”. } 39. Rd7 Kf8 40. Ra7 { Carlsen tích cực xe là nhiệm vụ cần phải được đặt lên mục tiêu hàng đầu. } 40... Rb5 41. Ra8+ Kg7 42. Re8 (42. Ra6 Rc5 43. h6+ Kf8 44. Ra8+ Nc8 45. Rb8 Ke8 46. Kb2 Kd8 47. Rb7 Ne7 48. Rb8+ Kd7 49. Rh8 Rxg5 50. Rxh7 Ke6 51. Rh8 Rxg3 52. Ra8 Rh3) 42... Re5 { Máy tính chỉ ra nước tốt nhất là nước Mc6, nhưng Caruana không nhìn thấy. Sau một loạt nước đi tiếp theo của biến Mc6 thì máy tính đánh giá đen sẽ giành chiến thắng. } (42... Nc6 43. h6+ Kg6 44. Rg8+ Kh5 45. Rg7 Ne5 46. Rxh7 Kxg5 47. Rh8 Ng6 48. Rh7 Kf6 49. Rg7 Rh5 50. Rg8 Rxh6 51. Ra8 Rh5) 43. g4 Rxe4 44. Kc2 {Trong lúc xe đen đang bị giằng, Carlsen nhanh chóng đưa vua vào cuộc chiến. Tích cực vua cũng là một nguyên tắc quan trọng không kém gì nguyên tắc tích cực quân trong cờ tàn. } 44... Re5 45. Kd3 f6 (45... h6 46. gxh6+ Kxh6 47. Kc4) 46. gxf6+ Kxf6 47. Rh8 Kg7 48. Re8 { Carlsen lặp lại nước đi của mình và sẵn sàng đồng ý hòa cờ. } 48... Kh6 { Không đồng ý chấp nhận một kết quả hòa, Caruana chọn cho mình phương án tốt hơn để đánh tiếp. } 49. a3 Kg5 50. Rh8 h6 51. Rh7 Re6 52. Rg7+ Kf6 53. Rh7 { Lại một lần nữa Carlsen “ngầm” muốn như đề nghị hòa vì thế cờ hiện tại bên trắng chỉ có thể hòa trở xuống. } 53... Ke5 54. Rg7 Kf4 55. b4 { Nước đi rất kịp thời và hợp lý đến từ Carlsen. Nhanh chóng tạo tốt thông buộc bên phải lui về phòng thủ và không có đủ thời gian để đẩy tốt thông “h”. } 55... axb4 56. axb4 Nc6 57. b5 Ne5+ 58. Kd4 Nxg4 59. Kc5! (59. Rg6 Re4+ 60. Kc5 Re5+! 61. Kb4 Rxh5 62. b6 Rh1 63. Kc5 Rb1) 59... Re5+ 60. Kc6 Rxh5 61. b6 Ne5+ 62. Kc7 Nc4 (62... Rh1 63. b7 Rc1+ 64. Kd6 Rc6+ 65. Kd5 Rb6 66. Rh7 Ng4 67. Kc5 Rb1 68. Kc6 Ne5+ 69. Kd5=) (62... Nd3 63. Rg1 Rc5+) 63. b7 Rc5+ 64. Kd8 Rb5 65. Kc7 Rc5+ 66. Kd8 Rb5 67. Kc7 Ke5 1/2-1/2 &lt;/textarea&gt;&lt;iframe frameborder="0" height="444" marginheight="0" marginwidth="0" scrolling="no" src="http://kozyice.hp/wp-content/plugins/embed-chessboard/pgn4web/board.html?am=n&amp;amp;d=3000&amp;amp;ig=f&amp;amp;iv=0&amp;amp;ih=s&amp;amp;ss=26&amp;amp;ps=d&amp;amp;pf=d&amp;amp;lch=F6F6F6&amp;amp;dch=22B322&amp;amp;bbch=E0E0E0&amp;amp;hm=b&amp;amp;hch=E82020&amp;amp;bd=c&amp;amp;cbch=F0F0F0&amp;amp;ctch=696969&amp;amp;hd=j&amp;amp;md=f&amp;amp;tm=13&amp;amp;fhch=000000&amp;amp;fhs=14&amp;amp;fmch=177817&amp;amp;fcch=363636&amp;amp;hmch=9FE0D7&amp;amp;fms=14&amp;amp;fcs=m&amp;amp;cd=i&amp;amp;bch=FFFFFF&amp;amp;fp=13&amp;amp;hl=t&amp;amp;fh=444&amp;amp;fw=p&amp;amp;pi=pgn4web_2b9c4a93" width="100%"&gt;your web browser and/or your host do not support iframes as required to display the chessboard; alternatively your wordpress theme might suppress the html iframe tag from articles or excerpts&lt;/iframe&gt;&lt;/div&gt;Phải nói rằng, giai đoạn khai cuộc và giai đoạn trung cuộc Caruana đánh rất hay về thế trận và khâu giải quyết khu trung tâm một cách thật hợp lý, đã tạo ra được ưu thế nhỏ về giai đoạn tàn cuộc, cũng có chút tiếc nuối dành cho Caruana. Nhưng cũng phải đáng khen hơn là Carlsen đã gỡ hòa được một thế cờ yếu hơn với kỹ thuật cờ tàn siêu đỉnh của mình với chiến lược thật vời từ các nguyên tắc như: Tích cực quân, tích cực vua và tạo tốt thông. Một kết quả hòa xứng đáng dành cho Đại kiện tướng trẻ!&lt;/p&gt;</content:encoded></item><item><title>[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 12</title><description>&lt;p&gt;[Audio Books Youtube] Đại chiến hacker (Little Brother – Cory Doctorow) Chương 12:&lt;/p&gt;
 
-<p><a href="http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little_Brother_12.mp3">http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little<em>Brother</em>12.mp3</a></p>
+&lt;p&gt;&lt;a href="http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little_Brother_12.mp3"&gt;http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little&lt;em&gt;Brother&lt;/em&gt;12.mp3&lt;/a&gt;&lt;/p&gt;
 
-<p>hoặc</p>
+&lt;p&gt;hoặc&lt;/p&gt;
 
-<p><a href="http://sh.st/ebpT9">http://sh.st/ebpT9</a></p>
+&lt;p&gt;&lt;a href="http://sh.st/ebpT9"&gt;http://sh.st/ebpT9&lt;/a&gt;&lt;/p&gt;
 
-<iframe allowfullscreen frameborder="0" height="540" src="https://www.youtube.com/embed/XgAwUV0oDCw?feature=oembed" width="960"></iframe>
+&lt;iframe allowfullscreen frameborder="0" height="540" src="https://www.youtube.com/embed/XgAwUV0oDCw?feature=oembed" width="960"&gt;&lt;/iframe&gt;
 
-<p><strong><em>Chú thích:</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chú thích:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<ol>
-<li><p>Grover, Elmo, Gordon, Susan: Những nhân vật trong bộ phim truyền hình nhiều tập Phố Seasame mang tính giáo dục và</p></li></ol></description><link>http://localhost:2368/dai-chien-hacker-little-brother-cory-doctorow-part-12/</link><guid isPermaLink="false">b1583c10-3c40-48d6-9852-7e0e09e78740</guid><category>Audio Book</category><category>Hacker</category><category>Little Brother</category><category>Novel</category><category>Xbox360</category><dc:creator>Hardy Pham</dc:creator><pubDate>Thu, 29 May 2014 11:36:27 GMT</pubDate><media:content url="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" medium="image"/><content:encoded><img src="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" alt="[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 12"><p>[Audio Books Youtube] Đại chiến hacker (Little Brother – Cory Doctorow) Chương 12:</p>
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Grover, Elmo, Gordon, Susan: Những nhân vật trong bộ phim truyền hình nhiều tập Phố Seasame mang tính giáo dục và&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/dai-chien-hacker-little-brother-cory-doctorow-part-12/</link><guid isPermaLink="false">b1583c10-3c40-48d6-9852-7e0e09e78740</guid><category>Audio Book</category><category>Hacker</category><category>Little Brother</category><category>Novel</category><category>Xbox360</category><dc:creator>Hardy Pham</dc:creator><pubDate>Thu, 29 May 2014 11:36:27 GMT</pubDate><media:content url="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" medium="image"/><content:encoded>&lt;img src="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" alt="[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 12"&gt;&lt;p&gt;[Audio Books Youtube] Đại chiến hacker (Little Brother – Cory Doctorow) Chương 12:&lt;/p&gt;
 
-<p><a href="http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little_Brother_12.mp3">http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little<em>Brother</em>12.mp3</a></p>
+&lt;p&gt;&lt;a href="http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little_Brother_12.mp3"&gt;http://www.mediafire.com/listen/664c5bw1m3ex3wl/Little&lt;em&gt;Brother&lt;/em&gt;12.mp3&lt;/a&gt;&lt;/p&gt;
 
-<p>hoặc</p>
+&lt;p&gt;hoặc&lt;/p&gt;
 
-<p><a href="http://sh.st/ebpT9">http://sh.st/ebpT9</a></p>
+&lt;p&gt;&lt;a href="http://sh.st/ebpT9"&gt;http://sh.st/ebpT9&lt;/a&gt;&lt;/p&gt;
 
-<iframe allowfullscreen frameborder="0" height="540" src="https://www.youtube.com/embed/XgAwUV0oDCw?feature=oembed" width="960"></iframe>
+&lt;iframe allowfullscreen frameborder="0" height="540" src="https://www.youtube.com/embed/XgAwUV0oDCw?feature=oembed" width="960"&gt;&lt;/iframe&gt;
 
-<p><strong><em>Chú thích:</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chú thích:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<ol>
-<li><p>Grover, Elmo, Gordon, Susan: Những nhân vật trong bộ phim truyền hình nhiều tập Phố Seasame mang tính giáo dục và giải trí cho thiếu nhi của Mỹ.</p></li>
-<li><p>Endorphin: Một chất giảm đau tự nhiên do cơ thể phát ra.</p></li>
-<li><p>Dath Varder: Vai phản diện chính trong phim Chiến tranh giữa các vì sao.</p></li>
-<li><p>SFPD: Sở cảnh sát San Francisco</p></li>
-</ol>
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Grover, Elmo, Gordon, Susan: Những nhân vật trong bộ phim truyền hình nhiều tập Phố Seasame mang tính giáo dục và giải trí cho thiếu nhi của Mỹ.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Endorphin: Một chất giảm đau tự nhiên do cơ thể phát ra.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dath Varder: Vai phản diện chính trong phim Chiến tranh giữa các vì sao.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;SFPD: Sở cảnh sát San Francisco&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-<p>======</p>
+&lt;p&gt;======&lt;/p&gt;
 
-<p>Tổng hợp tất cả các chương:</p>
+&lt;p&gt;Tổng hợp tất cả các chương:&lt;/p&gt;
 
-<p><a href="https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother">https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother</a></p>
+&lt;p&gt;&lt;a href="https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother"&gt;https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother&lt;/a&gt;&lt;/p&gt;
 
-<p>hoặc</p>
+&lt;p&gt;hoặc&lt;/p&gt;
 
-<p><a href="http://sh.st/wYb0T">http://sh.st/wYb0T</a></p>
+&lt;p&gt;&lt;a href="http://sh.st/wYb0T"&gt;http://sh.st/wYb0T&lt;/a&gt;&lt;/p&gt;
 
-<p><span style="color: chocolate;">HN, 290514</span> <br>
-<span style="color: blue;"><strong>_HP</strong></span></p></content:encoded></item><item><title>[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 11</title><description><p>Đại chiến hacker (Little Brother – Cory Doctorow) Chương 11:</p>
+&lt;p&gt;&lt;span style="color: chocolate;"&gt;HN, 290514&lt;/span&gt; &lt;br&gt;
+&lt;span style="color: blue;"&gt;&lt;strong&gt;_HP&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title>[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 11</title><description>&lt;p&gt;Đại chiến hacker (Little Brother – Cory Doctorow) Chương 11:&lt;/p&gt;
 
-<p><a href="https://www.mediafire.com/?s69c91308rew0tr">https://www.mediafire.com/?s69c91308rew0tr</a></p>
+&lt;p&gt;&lt;a href="https://www.mediafire.com/?s69c91308rew0tr"&gt;https://www.mediafire.com/?s69c91308rew0tr&lt;/a&gt;&lt;/p&gt;
 
-<iframe allowfullscreen frameborder="0" height="540" src="http://www.youtube.com/embed/hKJIp2VxiO0?feature=oembed" width="960"></iframe>
+&lt;iframe allowfullscreen frameborder="0" height="540" src="http://www.youtube.com/embed/hKJIp2VxiO0?feature=oembed" width="960"&gt;&lt;/iframe&gt;
 
-<p><strong><em>Chú thích:</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chú thích:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<ol>
-<li><p>Black Power: là một khẩu hiệu chính trị và tên để gọi những tư tưởng liên quan khác. Nó là phong trào của người Mỹ gốc Phi.</p></li>
-<li><p>Hội viên của Đảng Thanh niên Quốc</p></li></ol></description><link>http://localhost:2368/dai-chien-hacker-little-brother-cory-doctorow-part-11/</link><guid isPermaLink="false">a4b4e394-7329-491d-b7f1-a24bcba91894</guid><category>Audio Book</category><category>Little Brother</category><category>Novel</category><category>Xbox360</category><dc:creator>Hardy Pham</dc:creator><pubDate>Thu, 15 May 2014 13:44:00 GMT</pubDate><media:content url="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" medium="image"/><content:encoded><img src="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" alt="[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 11"><p>Đại chiến hacker (Little Brother – Cory Doctorow) Chương 11:</p>
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Black Power: là một khẩu hiệu chính trị và tên để gọi những tư tưởng liên quan khác. Nó là phong trào của người Mỹ gốc Phi.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hội viên của Đảng Thanh niên Quốc&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/dai-chien-hacker-little-brother-cory-doctorow-part-11/</link><guid isPermaLink="false">a4b4e394-7329-491d-b7f1-a24bcba91894</guid><category>Audio Book</category><category>Little Brother</category><category>Novel</category><category>Xbox360</category><dc:creator>Hardy Pham</dc:creator><pubDate>Thu, 15 May 2014 13:44:00 GMT</pubDate><media:content url="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" medium="image"/><content:encoded>&lt;img src="http://kozyice.hp/wp-content/uploads/2013/11/Little-Brother.jpg" alt="[Audio Books Youtube] Đại chiến hacker (Little Brother - Cory Doctorow) part 11"&gt;&lt;p&gt;Đại chiến hacker (Little Brother – Cory Doctorow) Chương 11:&lt;/p&gt;
 
-<p><a href="https://www.mediafire.com/?s69c91308rew0tr">https://www.mediafire.com/?s69c91308rew0tr</a></p>
+&lt;p&gt;&lt;a href="https://www.mediafire.com/?s69c91308rew0tr"&gt;https://www.mediafire.com/?s69c91308rew0tr&lt;/a&gt;&lt;/p&gt;
 
-<iframe allowfullscreen frameborder="0" height="540" src="http://www.youtube.com/embed/hKJIp2VxiO0?feature=oembed" width="960"></iframe>
+&lt;iframe allowfullscreen frameborder="0" height="540" src="http://www.youtube.com/embed/hKJIp2VxiO0?feature=oembed" width="960"&gt;&lt;/iframe&gt;
 
-<p><strong><em>Chú thích:</em></strong></p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chú thích:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<ol>
-<li><p>Black Power: là một khẩu hiệu chính trị và tên để gọi những tư tưởng liên quan khác. Nó là phong trào của người Mỹ gốc Phi.</p></li>
-<li><p>Hội viên của Đảng Thanh niên Quốc tế (Youth International Party), một nhóm phản văn hoá quyết liệt thành lập năm 1968, hay còn được biết đến với cái tên Yippie.</p></li>
-<li><p>Yuppie: YUP – Viết tắt của Young Urban Professional: những người trẻ tuổi thành thị chuyên nghiệp, là một khái niệm trong những năm 1980 và đầu năm 1990 để chỉ những người trẻ tuổi từ 20 đến 30 tuổi tầng lớp thượng lưu và trung lưu, ổn định về tài chính.</p></li>
-</ol>
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Black Power: là một khẩu hiệu chính trị và tên để gọi những tư tưởng liên quan khác. Nó là phong trào của người Mỹ gốc Phi.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hội viên của Đảng Thanh niên Quốc tế (Youth International Party), một nhóm phản văn hoá quyết liệt thành lập năm 1968, hay còn được biết đến với cái tên Yippie.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yuppie: YUP – Viết tắt của Young Urban Professional: những người trẻ tuổi thành thị chuyên nghiệp, là một khái niệm trong những năm 1980 và đầu năm 1990 để chỉ những người trẻ tuổi từ 20 đến 30 tuổi tầng lớp thượng lưu và trung lưu, ổn định về tài chính.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-<p>======</p>
+&lt;p&gt;======&lt;/p&gt;
 
-<p>Tổng hợp tất cả các chương:</p>
+&lt;p&gt;Tổng hợp tất cả các chương:&lt;/p&gt;
 
-<p><a href="https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother">https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother</a></p>
+&lt;p&gt;&lt;a href="https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother"&gt;https://www.mediafire.com/folder/v2vqot6di15rm/Little_brother&lt;/a&gt;&lt;/p&gt;
 
-<p>hoặc</p>
+&lt;p&gt;hoặc&lt;/p&gt;
 
-<p><a href="http://sh.st/wYb0T">http://sh.st/wYb0T</a></p>
+&lt;p&gt;&lt;a href="http://sh.st/wYb0T"&gt;http://sh.st/wYb0T&lt;/a&gt;&lt;/p&gt;
 
-<p><span style="color: chocolate;">HN, 150514</span> <br>
-<span style="color: blue;"><strong>_HP</strong></span></p></content:encoded></item><item><title>How to: Remote Windows 7 from MacOSX</title><description><p>Remote Desktop Connection Client for Mac 2.1.1 lets you connect from your Macintosh computer to a Windows-based computer or to multiple Windows-based computers at the same time. After you have connected, you can work with applications and files on the Windows-based computer.</p>
+&lt;p&gt;&lt;span style="color: chocolate;"&gt;HN, 150514&lt;/span&gt; &lt;br&gt;
+&lt;span style="color: blue;"&gt;&lt;strong&gt;_HP&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title>How to: Remote Windows 7 from MacOSX</title><description>&lt;p&gt;Remote Desktop Connection Client for Mac 2.1.1 lets you connect from your Macintosh computer to a Windows-based computer or to multiple Windows-based computers at the same time. After you have connected, you can work with applications and files on the Windows-based computer.&lt;/p&gt;
 
-<p><strong><em>Note:</em></strong> Microsoft Remote Desktop Connection Client</p></description><link>http://localhost:2368/how-to-remote-windows-7-from-macosx/</link><guid isPermaLink="false">96bb8f9d-01e8-481e-a0fe-5b13b1513689</guid><category>MacOSX</category><category>Tips and Tricks</category><category>windows 7</category><dc:creator>Hardy Pham</dc:creator><pubDate>Wed, 14 May 2014 11:27:10 GMT</pubDate><content:encoded><p>Remote Desktop Connection Client for Mac 2.1.1 lets you connect from your Macintosh computer to a Windows-based computer or to multiple Windows-based computers at the same time. After you have connected, you can work with applications and files on the Windows-based computer.</p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/strong&gt; Microsoft Remote Desktop Connection Client&lt;/p&gt;</description><link>http://localhost:2368/how-to-remote-windows-7-from-macosx/</link><guid isPermaLink="false">96bb8f9d-01e8-481e-a0fe-5b13b1513689</guid><category>MacOSX</category><category>Tips and Tricks</category><category>windows 7</category><dc:creator>Hardy Pham</dc:creator><pubDate>Wed, 14 May 2014 11:27:10 GMT</pubDate><content:encoded>&lt;p&gt;Remote Desktop Connection Client for Mac 2.1.1 lets you connect from your Macintosh computer to a Windows-based computer or to multiple Windows-based computers at the same time. After you have connected, you can work with applications and files on the Windows-based computer.&lt;/p&gt;
 
-<p><strong><em>Note:</em></strong> Microsoft Remote Desktop Connection Client for Mac (version 2.1.1) is not supported for use with Mac OS X v10.7 (Lion) or later.</p>
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/strong&gt; Microsoft Remote Desktop Connection Client for Mac (version 2.1.1) is not supported for use with Mac OS X v10.7 (Lion) or later.&lt;/p&gt;
 
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=18140">Download here: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=18140">http://www.microsoft.com/en-us/download/details.aspx?id=18140</a></a></p>
+&lt;p&gt;&lt;a href="http://www.microsoft.com/en-us/download/details.aspx?id=18140"&gt;Download here: &lt;a href="http://www.microsoft.com/en-us/download/details.aspx?id=18140"&gt;http://www.microsoft.com/en-us/download/details.aspx?id=18140&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 
-<iframe allowfullscreen frameborder="0" height="540" src="https://www.youtube.com/embed/4nTLuZ-2FJ0?feature=oembed" width="960"></iframe>
+&lt;iframe allowfullscreen frameborder="0" height="540" src="https://www.youtube.com/embed/4nTLuZ-2FJ0?feature=oembed" width="960"&gt;&lt;/iframe&gt;
 
-<p>Microsoft Remote Desktop Connection Client for Mac 2 features a redesigned user interface, improved customization options, and the ability to connect to multiple Windows-based computers at the same time. The following table lists these improvements.</p>
+&lt;p&gt;Microsoft Remote Desktop Connection Client for Mac 2 features a redesigned user interface, improved customization options, and the ability to connect to multiple Windows-based computers at the same time. The following table lists these improvements.&lt;/p&gt;
 
-<div class="cntIndent0" id="tableoverflow" style="color: #666666;"><table class="collapse"><tbody><tr class="trbgeven"><th style="color: #444444;"><span class="bterm" style="font-weight: 600;">FEATURE</span></th><th style="color: #444444;"><span class="bterm" style="font-weight: 600;">DESCRIPTION</span></th></tr><tr class="trbgodd"><td style="color: #444444;">User interface and menu bar</td><td style="color: #444444;">Simplifies the connection window and expands the menu bar to include menus for common tasks (File, Edit, View, and Help). Application preferences are now located on the RDC menu.</td></tr><tr class="trbgeven"><td style="color: #444444;">Remote Desktop Protocol 6.0</td><td style="color: #444444;">Improves performance and compatibility with Windows Vista and Windows 7.</td></tr><tr class="trbgodd"><td style="color: #444444;">Multiple sessions</td><td style="color: #444444;">Connects to multiple computers when you save a connection file for each computer. Use the new File menu to open new, saved, and previously opened connections and to manage all changes to connection files.</td></tr><tr class="trbgeven"><td style="color: #444444;">Better customization than Remote Desktop Connection 1.0</td><td style="color: #444444;">Accepts changes to application preferences, such as keyboard shortcuts, during a Remote Desktop session. Changes take effect the next time that you connect.</td></tr><tr class="trbgodd"><td style="color: #444444;">Automatic reconnection</td><td style="color: #444444;">Reestablishes a remote session when the network connection is lost.</td></tr><tr class="trbgeven"><td style="color: #444444;">Screen sizing options</td><td style="color: #444444;">Runs the Remote Desktop session in a resizable window or in full-screen mode.</td></tr><tr class="trbgodd"><td style="color: #444444;">Printing</td><td style="color: #444444;">Prints your Windows-based documents to any printer that is connected to the Macintosh computer.</td></tr><tr class="trbgeven"><td style="color: #444444;">Network Level Authentication</td><td style="color: #444444;">Verifies the identity of the Windows-based computer before establishing a Remote Desktop connection. You can select this option when you connect to a computer that is running Windows Vista or Windows 7. Network Level Authentication is more secure than authentication options in earlier versions of Windows.</td></tr><tr class="trbgodd"><td style="color: #444444;">Wide-screen resolution</td><td style="color: #444444;">Provides settings for improved resolution on wide-screen displays.</td></tr><tr class="trbgeven"><td style="color: #444444;">Server console sessions</td><td style="color: #444444;">Speeds login when you specify “console” as part of the computer name.</td></tr></tbody></table></div></content:encoded></item></channel></rss>
+&lt;div class="cntIndent0" id="tableoverflow" style="color: #666666;"&gt;&lt;table class="collapse"&gt;&lt;tbody&gt;&lt;tr class="trbgeven"&gt;&lt;th style="color: #444444;"&gt;&lt;span class="bterm" style="font-weight: 600;"&gt;FEATURE&lt;/span&gt;&lt;/th&gt;&lt;th style="color: #444444;"&gt;&lt;span class="bterm" style="font-weight: 600;"&gt;DESCRIPTION&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr class="trbgodd"&gt;&lt;td style="color: #444444;"&gt;User interface and menu bar&lt;/td&gt;&lt;td style="color: #444444;"&gt;Simplifies the connection window and expands the menu bar to include menus for common tasks (File, Edit, View, and Help). Application preferences are now located on the RDC menu.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgeven"&gt;&lt;td style="color: #444444;"&gt;Remote Desktop Protocol 6.0&lt;/td&gt;&lt;td style="color: #444444;"&gt;Improves performance and compatibility with Windows Vista and Windows 7.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgodd"&gt;&lt;td style="color: #444444;"&gt;Multiple sessions&lt;/td&gt;&lt;td style="color: #444444;"&gt;Connects to multiple computers when you save a connection file for each computer. Use the new File menu to open new, saved, and previously opened connections and to manage all changes to connection files.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgeven"&gt;&lt;td style="color: #444444;"&gt;Better customization than Remote Desktop Connection 1.0&lt;/td&gt;&lt;td style="color: #444444;"&gt;Accepts changes to application preferences, such as keyboard shortcuts, during a Remote Desktop session. Changes take effect the next time that you connect.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgodd"&gt;&lt;td style="color: #444444;"&gt;Automatic reconnection&lt;/td&gt;&lt;td style="color: #444444;"&gt;Reestablishes a remote session when the network connection is lost.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgeven"&gt;&lt;td style="color: #444444;"&gt;Screen sizing options&lt;/td&gt;&lt;td style="color: #444444;"&gt;Runs the Remote Desktop session in a resizable window or in full-screen mode.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgodd"&gt;&lt;td style="color: #444444;"&gt;Printing&lt;/td&gt;&lt;td style="color: #444444;"&gt;Prints your Windows-based documents to any printer that is connected to the Macintosh computer.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgeven"&gt;&lt;td style="color: #444444;"&gt;Network Level Authentication&lt;/td&gt;&lt;td style="color: #444444;"&gt;Verifies the identity of the Windows-based computer before establishing a Remote Desktop connection. You can select this option when you connect to a computer that is running Windows Vista or Windows 7. Network Level Authentication is more secure than authentication options in earlier versions of Windows.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgodd"&gt;&lt;td style="color: #444444;"&gt;Wide-screen resolution&lt;/td&gt;&lt;td style="color: #444444;"&gt;Provides settings for improved resolution on wide-screen displays.&lt;/td&gt;&lt;/tr&gt;&lt;tr class="trbgeven"&gt;&lt;td style="color: #444444;"&gt;Server console sessions&lt;/td&gt;&lt;td style="color: #444444;"&gt;Speeds login when you specify “console” as part of the computer name.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
