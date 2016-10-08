@@ -102,7 +102,7 @@
 (function() {
   'use strict';
   $(function() {
-    InstantClick.init();
+    if(typeof InstantClick !== 'undefined') InstantClick.init();
     if (Uno.is('device', 'desktop')) {
       $('a').not('[href*="mailto:"]').click(function() {
         if (this.href.indexOf(location.hostname) === -1) {
