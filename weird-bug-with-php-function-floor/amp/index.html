@@ -1,41 +1,40 @@
-<!DOCTYPE html>
-<html ⚡>
+
 <head>
     <meta charset="utf-8">
 
     <title>Weird bug with PHP function floor()</title>
-    <meta name="description" content="" />
+    <meta name="description" content="">
 
-    <meta name="HandheldFriendly" content="True" />
+    <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 
     <link rel="shortcut icon" href="../../favicon.ico">
 
-    <link rel="canonical" href="../index.html" />
-    <meta name="referrer" content="no-referrer-when-downgrade" />
+    <link rel="canonical" href="../index.html">
+    <meta name="referrer" content="no-referrer-when-downgrade">
     
-    <meta property="og:site_name" content="KozyIce" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Weird bug with PHP function floor()" />
-    <meta property="og:description" content="In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_Sy_UhmFv__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from" />
-    <meta property="og:url" content="http://localhost:2368/weird-bug-with-php-function-floor/" />
-    <meta property="article:published_time" content="2015-04-24T08:07:36.000Z" />
-    <meta property="article:modified_time" content="2016-02-16T04:46:52.000Z" />
-    <meta property="article:tag" content="Tips and Tricks" />
-    <meta property="article:tag" content="php" />
-    <meta property="article:tag" content="bug" />
-    <meta property="article:tag" content="code" />
+    <meta property="og:site_name" content="KozyIce">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Weird bug with PHP function floor()">
+    <meta property="og:description" content='In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_<_lbPSz_BU__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from'>
+    <meta property="og:url" content="http://localhost:2368/weird-bug-with-php-function-floor/">
+    <meta property="article:published_time" content="2015-04-24T08:07:36.000Z">
+    <meta property="article:modified_time" content="2016-02-16T04:46:52.000Z">
+    <meta property="article:tag" content="Tips and Tricks">
+    <meta property="article:tag" content="php">
+    <meta property="article:tag" content="bug">
+    <meta property="article:tag" content="code">
     
-    <meta property="article:publisher" content="https://www.facebook.com/phamduyhiep" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Weird bug with PHP function floor()" />
-    <meta name="twitter:description" content="In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_Sy_UhmFv__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from" />
-    <meta name="twitter:url" content="http://localhost:2368/weird-bug-with-php-function-floor/" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Hardy Pham" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Tips and Tricks, php, bug, code" />
-    <meta name="twitter:site" content="@kozyice" />
+    <meta property="article:publisher" content="https://www.facebook.com/phamduyhiep">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Weird bug with PHP function floor()">
+    <meta name="twitter:description" content='In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_<_lbPSz_BU__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from'>
+    <meta name="twitter:url" content="http://localhost:2368/weird-bug-with-php-function-floor/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Hardy Pham">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Tips and Tricks, php, bug, code">
+    <meta name="twitter:site" content="@kozyice">
     
     <script type="application/ld+json">
 {
@@ -63,7 +62,7 @@
     "datePublished": "2015-04-24T08:07:36.000Z",
     "dateModified": "2016-02-16T04:46:52.000Z",
     "keywords": "Tips and Tricks, php, bug, code",
-    "description": "In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_Sy_UhmFv__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from",
+    "description": "In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_<_lbPSz_BU__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "http://localhost:2368"
@@ -71,10 +70,10 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.11" />
-    <link rel="alternate" type="application/rss+xml" title="KozyIce" href="../../rss/index.html" />
+    <meta name="generator" content="Ghost 0.11">
+    <link rel="alternate" type="application/rss+xml" title="KozyIce" href="../../rss/index.html">
 
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,600,400" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,600,400">
     <style amp-custom>
         /* ==========================================================================
            Table of Contents
@@ -848,7 +847,7 @@
 <body class="amp-template">
     <header class="main-header">
         <nav class="blog-title">
-            <a href="../../index.html">KozyIce</a>
+            <a href="../../">KozyIce</a>
         </nav>
     </header>
 
@@ -858,18 +857,18 @@
             <header class="post-header">
                 <h1 class="post-title">Weird bug with PHP function floor()</h1>
                 <section class="post-meta">
-                    <p class="author">by <a href="../../author/hardy/index.html">Hardy Pham</a></p>
+                    <p class="author">by <a href="../../author/hardy/">Hardy Pham</a></p>
                     <time class="post-date" datetime="2015-04-24">2015-04-24</time>
                 </section>
             </header>
             <section class="post-content">
 
-                <p>In my project, I have to deal with a small problem: <br></br>
-<strong>Input</strong>: Some strings/numbers with value __aSyNcId_&lt;_hPBqHSbH__quot;a_1a_2..a_n.xy&quot;$
+                <p>In my project, I have to deal with a small problem: <br>
+<strong>Input</strong>: Some strings/numbers with value __aSyNcId_<_hgaOnIdJ__quot;a_1a_2..a_n.xy"$
 ($a_1, a_2, a_n, x, y$ are numbers in [0..9])</p>
 
-<p>For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc. <br></br>
-<strong>Output</strong>: Two numbers that were substrings from input splited by &quot;.&quot;
+<p>For examples, "12345.04", "384.13", etc. <br>
+<strong>Output</strong>: Two numbers that were substrings from input splited by "."
 (12345 and 04, 384 and 13, etc.)</p>
 
 <p>OK, that's quite easy. At the beginning, I came up with this solution:</p>
@@ -877,32 +876,32 @@
 <pre><code class="language-php">$a = '1704.09';
 $b = floor($a);    // first number
 $c = (int)($a * 100) - $b * 100;    // second number
-echo $a.&quot;&lt;br /&gt;&quot;.$b.&quot;&lt;br /&gt;&quot;.$c;  
+echo $a."<br />".$b."<br />".$c;  
 </code></pre>
 
-<p>Everything seems to be fine, <a href="http://php.net/manual/en/function.floor.php">function floor()</a> giving you the lowest bounding integer of a float. Lately, I realized that my code provides wrong results with some inputs ended by &quot;.01&quot;: &quot;77655.01&quot;, &quot;17064.01&quot;, etc. Of course, my code has to be changed:</p>
+<p>Everything seems to be fine, <a href="http://php.net/manual/en/function.floor.php">function floor()</a> giving you the lowest bounding integer of a float. Lately, I realized that my code provides wrong results with some inputs ended by ".01": "77655.01", "17064.01", etc. Of course, my code has to be changed:</p>
 
 <pre><code class="language-php">$a = '1704.01';
-$array_a = explode(&quot;.&quot;, $a);
+$array_a = explode(".", $a);
 $b = (int) $array_a[0];    // first number
 $c = (int) $array_a[1];    // second number
-echo $a.&quot;&lt;br /&gt;&quot;.$b.&quot;&lt;br /&gt;&quot;.$c;  
+echo $a."<br />".$b."<br />".$c;  
 </code></pre>
 
-<p>The following code shows that from $0$ to $10^7$, there are exactly 610143 numbers $x$ have property: $100 * (x + 0.01) \neq \ &quot;x01&quot;$</p>
+<p>The following code shows that from $0$ to $10^7$, there are exactly 610143 numbers $x$ have property: $100 * (x + 0.01) \neq \ "x01"$</p>
 
 <pre><code class="language-php">$counter = 0;
-for($i = 0; $i &lt; 10000000; $i++) {  
+for($i = 0; $i < 10000000; $i++) {  
     $a = $i.'.'.'01';
     $f = floor($a);
     $b = (int)($a * 100) - $f * 100;
     if($b == 0) {
         echo $i;
-        echo &quot;&lt;br /&gt;&quot;;
+        echo "<br />";
         $counter++;
     }
 }
-echo &quot;=== DONE ===&lt;br /&gt;&quot;;  
+echo "=== DONE ===<br />";  
 echo $counter;  
 </code></pre>
 
@@ -913,8 +912,7 @@ echo $counter;
         </article>
     </main>
     <footer class="site-footer clearfix">
-        <section class="copyright"><a href="../../index.html">KozyIce</a> &copy; 2016</section>
+        <section class="copyright"><a href="../../">KozyIce</a> © 2016</section>
         <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
     </footer>
 </body>
-</html>

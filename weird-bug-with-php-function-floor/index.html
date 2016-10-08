@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
   <head>
     <title>Weird bug with PHP function floor()</title>
     <meta charset="utf-8">
@@ -32,34 +31,34 @@
 <meta name="msapplication-TileImage" content="/assets/img/mstile-144x144.png?v=wAAv6Wqe6l">
 <meta name="msapplication-config" content="/assets/img/browserconfig.xml?v=wAAv6Wqe6l">
 <meta name="theme-color" content="#e74c3c">
-    <link href='https://fonts.googleapis.com/css?family=Raleway:400,600%7CRoboto+Slab:300,400' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="../assets/css/uno-zen.css?v=d9146edb91" />
-    <link rel="canonical" href="index.html" />
-    <meta name="referrer" content="no-referrer-when-downgrade" />
-    <link rel="amphtml" href="amp/index.html" />
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,600|Roboto+Slab:300,400" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/uno-zen.css?v=d9146edb91">
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <link rel="amphtml" href="amp/index.html">
     
-    <meta property="og:site_name" content="KozyIce" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Weird bug with PHP function floor()" />
-    <meta property="og:description" content="In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_kdMUePMD__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from" />
-    <meta property="og:url" content="http://localhost:2368/weird-bug-with-php-function-floor/" />
-    <meta property="article:published_time" content="2015-04-24T08:07:36.000Z" />
-    <meta property="article:modified_time" content="2016-02-16T04:46:52.000Z" />
-    <meta property="article:tag" content="Tips and Tricks" />
-    <meta property="article:tag" content="php" />
-    <meta property="article:tag" content="bug" />
-    <meta property="article:tag" content="code" />
+    <meta property="og:site_name" content="KozyIce">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Weird bug with PHP function floor()">
+    <meta property="og:description" content='In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_<_xEPPrmAI__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from'>
+    <meta property="og:url" content="http://localhost:2368/weird-bug-with-php-function-floor/">
+    <meta property="article:published_time" content="2015-04-24T08:07:36.000Z">
+    <meta property="article:modified_time" content="2016-02-16T04:46:52.000Z">
+    <meta property="article:tag" content="Tips and Tricks">
+    <meta property="article:tag" content="php">
+    <meta property="article:tag" content="bug">
+    <meta property="article:tag" content="code">
     
-    <meta property="article:publisher" content="https://www.facebook.com/phamduyhiep" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Weird bug with PHP function floor()" />
-    <meta name="twitter:description" content="In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_kdMUePMD__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from" />
-    <meta name="twitter:url" content="http://localhost:2368/weird-bug-with-php-function-floor/" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Hardy Pham" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Tips and Tricks, php, bug, code" />
-    <meta name="twitter:site" content="@kozyice" />
+    <meta property="article:publisher" content="https://www.facebook.com/phamduyhiep">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Weird bug with PHP function floor()">
+    <meta name="twitter:description" content='In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_<_xEPPrmAI__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from'>
+    <meta name="twitter:url" content="http://localhost:2368/weird-bug-with-php-function-floor/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Hardy Pham">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Tips and Tricks, php, bug, code">
+    <meta name="twitter:site" content="@kozyice">
     
     <script type="application/ld+json">
 {
@@ -87,7 +86,7 @@
     "datePublished": "2015-04-24T08:07:36.000Z",
     "dateModified": "2016-02-16T04:46:52.000Z",
     "keywords": "Tips and Tricks, php, bug, code",
-    "description": "In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_&lt;_kdMUePMD__quot;a_1a_2..a_n.xy&quot;$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, &quot;12345.04&quot;, &quot;384.13&quot;, etc.  Output: Two numbers that were substrings from",
+    "description": "In my project, I have to deal with a small problem:  Input: Some strings/numbers with value __aSyNcId_<_xEPPrmAI__quot;a_1a_2..a_n.xy"$ ($a_1, a_2, a_n, x, y$ are numbers in [0..9]) For examples, "12345.04", "384.13", etc.  Output: Two numbers that were substrings from",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "http://localhost:2368"
@@ -95,8 +94,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.11" />
-    <link rel="alternate" type="application/rss+xml" title="KozyIce" href="../rss/index.html" />
+    <meta name="generator" content="Ghost 0.11">
+    <link rel="alternate" type="application/rss+xml" title="KozyIce" href="../rss/index.html">
     <script>
     var ga_id = 'UA-51442242-1';
     var profile_title = 'Hardy Pham';
@@ -114,14 +113,14 @@
   <div class="cover container">
     <div class="profile">
       <a id="avatar-link" title="link to homepage for KozyIce" href="../index.html#open">
-        <img src="../content/images/2016/04/hplogo.png" alt="KozyIce avatar" class="profile avatar rounded hvr-buzz-out" />
+        <img src="../content/images/2016/04/hplogo.png" alt="KozyIce avatar" class="profile avatar rounded hvr-buzz-out">
         <h1 id="profile-title">KozyIce</h1>
         <h3 id="profile-resume"></h3>
       </a>
 
-      <hr class="divider long" />
+      <hr class="divider long">
       <p>No price is too high to pay for the privilege of owning yourself.</p>
-      <hr class="divider short" />
+      <hr class="divider short">
       <div class="navigation">
         <div class="profile contact">
           <nav class="navigation left">
@@ -148,7 +147,7 @@
   <!-- Twitter -->
   <li class="social item hvr-grow-rotate">
     <a rel="me" target="blank" href="https://twitter.com/kozyice" title="@Kozyice on Twitter">
-      <i class='icon icon-social-twitter'></i>
+      <i class="icon icon-social-twitter"></i>
       <span class="label">Twitter</span>
     </a>
   </li>
@@ -156,7 +155,7 @@
   <!-- Linkedin -->
   <li class="social item hvr-grow-rotate">
     <a rel="me" target="blank" href="https://linkedin.com/in/phamduyhiep" title="Hardy Pham on LinkedIn">
-      <i class='icon icon-social-linkedin'></i>
+      <i class="icon icon-social-linkedin"></i>
       <span class="label">Linkedin</span>
     </a>
   </li>
@@ -164,15 +163,15 @@
   <!-- Github -->
   <li class="social item hvr-grow-rotate">
     <a rel="me" target="blank" href="https://github.com/hieppham" title="Hardy Pham on Github">
-      <i class='icon icon-social-github'></i>
+      <i class="icon icon-social-github"></i>
       <span class="label">Github</span>
     </a>
   </li>
 
   <!-- RSS -->
   <li class="social item hvr-grow-rotate">
-    <a href="../rss/index.html" title="Subscribe to RSS">
-      <i class='icon icon-rss'></i>
+    <a href="../rss/index.rss" title="Subscribe to RSS">
+      <i class="icon icon-rss"></i>
       <span class="label">RSS</span>
     </a>
   </li>
@@ -180,14 +179,14 @@
   </ul>
 </nav>
           <section class="icon icon-search" id="search-container">
-  <hr class="divider short" />
+  <hr class="divider short">
   <form id="search-form" onsubmit="return sdispatch();">
-    <input ,="" name="q" placeholder="Search..." id="search-field" type="text">
+    <input name="q" placeholder="Search..." id="search-field" type="text">
   </form>
 </section>
 
 <script>
-  function sdispatch() { var q = document.getElementById("search-field"); if (q.value != "") { var url = 'http://www.google.com/search?q=site:hieppham.net%20' + q.value; if (navigator.userAgent.indexOf('iPad') > -1 || navigator.userAgent.indexOf('iPhone') > -1 || navigator.userAgent.indexOf('iPhone') > -1) { location.href = url; } else { window.open(url, "_blank"); } return false; } else { return false; } }
+  function sdispatch() { var q = document.getElementById("search-field"); if (q.value != "") { var url = 'http://www.google.com/search?q=site:hieppham.net ' + q.value; if (navigator.userAgent.indexOf('iPad') > -1 || navigator.userAgent.indexOf('iPhone') > -1 || navigator.userAgent.indexOf('iPhone') > -1) { location.href = url; } else { window.open(url, "_blank"); } return false; } else { return false; } }
 </script>        </div>
       </div>
     </div>
@@ -202,23 +201,23 @@
     <header>
       <div class="post meta">
         <time datetime="2015-04-24T15:04">24 Apr 2015</time>
-        <span class="post tags">in <a href="../tag/tips-and-tricks/index.html">Tips and Tricks</a> <a href="../tag/php/index.html">php</a> <a href="../tag/bug/index.html">bug</a> <a href="../tag/code/index.html">code</a></span>
+        <span class="post tags">in <a href="../tag/tips-and-tricks/">Tips and Tricks</a> <a href="../tag/php/">php</a> <a href="../tag/bug/">bug</a> <a href="../tag/code/">code</a></span>
 
 
         <span class="post reading-time"> ~ <span></span> read.</span>
       </div>
-      <a title="Tweet 'Weird bug with PHP function floor()'" href="https://twitter.com/intent/tweet?text=Weird%20bug%20with%20PHP%20function%20floor()%20%C2%BB&amp;hashtags=Tips and Tricks,php,bug,code&amp;url=http://localhost:2368/weird-bug-with-php-function-floor/">
+      <a title="Tweet 'Weird bug with PHP function floor()'" href="https://twitter.com/intent/tweet?text=Weird bug with PHP function floor() »&hashtags=Tips and Tricks,php,bug,code&url=http://localhost:2368/weird-bug-with-php-function-floor/">
         
         <h1 class="icon-reverse icon-social-twitter-post" id="post-title">Weird bug with PHP function floor()</h1>
       </a>
     </header>
 
     <div id="post-content" class="post tag-tips-and-tricks tag-php tag-bug tag-code">
-      <p>In my project, I have to deal with a small problem: <br />
+      <p>In my project, I have to deal with a small problem: <br>
 <strong>Input</strong>: Some strings/numbers with value $"a_1a_2..a_n.xy"$
 ($a_1, a_2, a_n, x, y$ are numbers in [0..9])</p>
 
-<p>For examples, "12345.04", "384.13", etc. <br />
+<p>For examples, "12345.04", "384.13", etc. <br>
 <strong>Output</strong>: Two numbers that were substrings from input splited by "."
 (12345 and 04, 384 and 13, etc.)</p>
 
@@ -227,7 +226,7 @@
 <pre><code class="language-php">$a = '1704.09';
 $b = floor($a);    // first number
 $c = (int)($a * 100) - $b * 100;    // second number
-echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;  
+echo $a."<br />".$b."<br />".$c;  
 </code></pre>
 
 <p>Everything seems to be fine, <a href="http://php.net/manual/en/function.floor.php">function floor()</a> giving you the lowest bounding integer of a float. Lately, I realized that my code provides wrong results with some inputs ended by ".01": "77655.01", "17064.01", etc. Of course, my code has to be changed:</p>
@@ -236,23 +235,23 @@ echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;
 $array_a = explode(".", $a);
 $b = (int) $array_a[0];    // first number
 $c = (int) $array_a[1];    // second number
-echo $a."&lt;br /&gt;".$b."&lt;br /&gt;".$c;  
+echo $a."<br />".$b."<br />".$c;  
 </code></pre>
 
 <p>The following code shows that from $0$ to $10^7$, there are exactly 610143 numbers $x$ have property: $100 * (x + 0.01) \neq \ "x01"$</p>
 
 <pre><code class="language-php">$counter = 0;
-for($i = 0; $i &lt; 10000000; $i++) {  
+for($i = 0; $i < 10000000; $i++) {  
     $a = $i.'.'.'01';
     $f = floor($a);
     $b = (int)($a * 100) - $f * 100;
     if($b == 0) {
         echo $i;
-        echo "&lt;br /&gt;";
+        echo "<br />";
         $counter++;
     }
 }
-echo "=== DONE ===&lt;br /&gt;";  
+echo "=== DONE ===<br />";  
 echo $counter;  
 </code></pre>
 
@@ -260,9 +259,9 @@ echo $counter;
     </div>
 
     <div class="post related">
-        <a rel="prev" id="prev-btn" class="btn small square" href="../audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04/index.html">← [Audio Book] Vũ trụ trong vỏ hạt dẻ #04 - The Universe in a nutshell #04</a>
+        <a rel="prev" id="prev-btn" class="btn small square" href="../audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04/">← [Audio Book] Vũ trụ trong vỏ hạt dẻ #04 - The Universe in a nutshell #04</a>
 
-        <a rel="next" id="next-btn" class="btn small square" href="../audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04-2/index.html">[Audio Book] Vũ trụ trong vỏ hạt dẻ #05 - The Universe in a nutshell #05 →</a>
+        <a rel="next" id="next-btn" class="btn small square" href="../audio-book-vu-tru-trong-vo-hat-de-04-the-universe-in-a-nutshell-04-2/">[Audio Book] Vũ trụ trong vỏ hạt dẻ #05 - The Universe in a nutshell #05 →</a>
     </div>
 
     <footer class="post comments">
@@ -282,7 +281,7 @@ echo $counter;
 
         <footer>
   <span class="copyright">
-    &copy; 2016. All rights reserved. Built with <a href="https://github.com/Kikobeats/uno-zen" target="_blank">Uno Zen</a> under <a href="https://ghost.org/" target="_blank">Ghost</a>. Original design by <a href="https://daleanthony.com" target="_blank">Dale Anthony</a>.
+    © 2016. All rights reserved. Built with <a href="https://github.com/Kikobeats/uno-zen" target="_blank">Uno Zen</a> under <a href="https://ghost.org/" target="_blank">Ghost</a>. Original design by <a href="https://daleanthony.com" target="_blank">Dale Anthony</a>.
   </span>
 </footer>
       </section>
@@ -305,4 +304,3 @@ echo $counter;
   }
 </script>
   </body>
-</html>
