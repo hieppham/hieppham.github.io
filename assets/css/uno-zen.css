@@ -221,7 +221,7 @@ h4,
 h5,
 h6 {
   color: #333;
-  font-family: "David Libre", "Roboto Slab", serif;
+  font-family: "David Libre", "Open Sans", "Roboto", "Roboto Slab", serif;
   -webkit-font-smoothing: antialiased;
   font-weight: lighter; }
 
