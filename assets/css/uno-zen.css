@@ -193,7 +193,7 @@ body {
 
 body {
   color: #666;
-  font-family: "Open Sans", "Lato", sans-serif; }
+  font-family: "Open Sans", "Lato", "Roboto", sans-serif; }
 
 mark {
   background: #feda9e;
@@ -221,7 +221,7 @@ h4,
 h5,
 h6 {
   color: #333;
-  font-family: "Roboto Slab", "Roboto", serif;
+  font-family: "David Libre", "Roboto Slab", serif;
   -webkit-font-smoothing: antialiased;
   font-weight: lighter; }
 
@@ -1674,7 +1674,7 @@ pre[class*="language-"] {
     font-size: .9rem; }
   .profile > a > h1 {
     margin: 10px auto;
-    font-family: "Open Sans", "Lato", sans-serif;
+    font-family: "Open Sans", "Lato", "Roboto", sans-serif;
     font-size: 1.6rem;
     font-weight: bold;
     letter-spacing: .05rem;
